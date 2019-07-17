@@ -1,0 +1,1 @@
+<?php for($x=1;$x<10;$x++){echo "<table border='2'><tr><td>$x</td></tr></table>";}?>
