@@ -1,0 +1,5 @@
+<?php
+
+echo "<h1>WELCOME USER, YOU HAVE SUCCESFULLY LOGGED IN</h1>";
+
+?>
