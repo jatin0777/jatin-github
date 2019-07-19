@@ -1,0 +1,24 @@
+.custom{
+    height:150px;
+    background-color:lightgray;
+    text-align: center;
+    padding:60px;
+    font-size:x-large;
+    color: gray;
+}
+.custom1{
+    width: 100%;
+    text-align: center;
+    background-color:rgba(0, 0, 0, 0.82);
+    color: white;
+    height: 80px;
+    padding:25px;
+    font-family:Candara;
+}
+hr{
+    background-color:indianred;
+}
+.well{
+    margin: 0px;
+    font-family:"Century Gothic";
+}
