@@ -1,0 +1,27 @@
+/*body font color*/
+body{color: #333;}
+
+/*pri-bg-color*/
+.pri-bg-color{background-color:#383838;}
+
+/*link color*/
+a,a.readmore,.navbar-nav > .active > a,button.loadmore,.navbar-nav .current-menu-ancestor>a,.navbar-nav > .active > a, .navbar-nav > .active > a:hover,.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus{color: #6823ea;background: none;}
+
+
+/*menu*/
+.navbar-nav > li > a {color: #aaa;}
+
+/*Heading Title*/
+h1,h2,h3,h4,h5,h6{color:#474747;}
+
+/*Heading Link*/
+h2 a, h3 a,h4 a{color:#444;}
+
+
+/*buttons*/
+header .search-submit,.widget .profile-link
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt,
+.woocommerce button.button.alt, .woocommerce input.button.alt,.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button,
+.woocommerce input.button,form#wte_enquiry_contact_form input#enquiry_submit_button,#blossomthemes-email-newsletter-626 input.subscribe-submit-626,
+.jetpack_subscription_widget,.widget_search,.search-submit,.widget-instagram .owl-carousel .owl-nav .owl-prev,
+.widget-instagram .owl-carousel .owl-nav .owl-next,.widget_search input.search-submit{background-color:#f968b6;}

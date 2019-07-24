@@ -1,0 +1,10 @@
+/* Primary Colors */
+.pri-color,a, a:visited,h5.category a,h3 a,.fa-clock-o:before{color:#121212;}
+.pri-bg-color,.jetpack_subscription_widget,.widget_search,.search-submit{background-color: #121212;}
+
+/* Secondary Colors */ 
+.widget-instagram .owl-carousel .owl-nav .owl-prev, .widget-instagram .owl-carousel .owl-nav .owl-next,.widget_search input.search-submit,.home-pages .page-home-summary h5.category:hover,form#wte_enquiry_contact_form input#enquiry_submit_button
+{background-color: #e80285;}
+.widget-newsletter .blossomthemes-email-newsletter-wrapper form input[type="submit"],.sec-bg-color,.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button{background: #e80285;color: #fff;}
+.sec-color,h2.news-heading,h4.news-title a:hover,a.readmore,button.loadmore,.navbar-nav .current-menu-ancestor>a,.navbar-nav > .active > a, .navbar-nav > .active > a:hover,.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover{color:#e80285;}
+.dropdown-menu > .active > a:focus{color:#e80285;background: #eee;}

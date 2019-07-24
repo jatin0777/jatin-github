@@ -1,0 +1,22 @@
+/*
+Theme Name: Bootstrap Photo
+Template: bootstrap-blog
+Theme URI: https://thebootstrapthemes.com/downloads/free-bootstrap-photo-wordpress-theme/
+Author: thebootstrapthemes
+Author URI: http://thebootstrapthemes.com
+Description: Bootstrap Photo is a child theme of Bootstrap Blog WordPress Theme. This is one of  the best WordPress theme designed for female and feminine bloggers, newspaper, photography, news portal, news website, magazine, blog, bloggers, photographers, personal portfolio, travel bloggers, small medium and large scale businesses, corporates, lawyers, restaurants, weddings, salons, fitness, resorts, ecommerce, businesses, creative freelancers, professionals etc. and also supports woocommerce. 
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: bootstrap-photo
+Tags: right-sidebar, portfolio, news, theme-options, featured-images, rtl-language-support, grid-layout, editor-style, custom-header, threaded-comments, custom-background, custom-colors, blog, footer-widgets, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+bootstrap-photo is based on Underscores http://underscores.me/, (C) 2012-2015 thebootstrapthemes.
+bootstrap-photo is distributed under the terms of the GNU GPL v2 or later.
+*/
+
+header .top-bar{padding: 60px 0;}
+header .logo h1{color: #fff;}

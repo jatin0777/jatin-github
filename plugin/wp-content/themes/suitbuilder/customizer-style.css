@@ -1,0 +1,280 @@
+
+.customize-inside-control-row  {
+    margin-left: 0 !important;
+}
+.customize-inside-control-row input[type=checkbox] ~ label {
+    position: relative;
+    padding-left: 47px;
+    display: block;
+}
+.customize-inside-control-row input[type=checkbox]{
+	height: 0;
+	width: 0;
+    visibility: hidden !important;
+    position: absolute;
+}
+
+.customize-inside-control-row input[type=checkbox] ~ label:before {
+    content: '';
+	cursor: pointer;
+    text-indent: -9999px;
+    width: 41px;
+    height: 21px;
+    background: #dd5050;
+    display: block;
+    border-radius: 100px;
+    position: absolute;
+    left: 0;
+}
+
+.customize-inside-control-row input[type=checkbox] ~ label:after {
+	content: '';
+	position: absolute;
+	top: 2px;
+	left: 22px;
+	width: 16px;
+	height: 16px;
+	background: #fff;
+	border-radius: 90px;
+	transition: 0.3s;
+}
+
+.customize-inside-control-row input[type=checkbox]:checked + label:before {
+	background: #50c83a;
+}
+
+.customize-inside-control-row input[type=checkbox]:checked + label:after {
+	left: 2px;
+}
+
+
+/* custom radio button */
+.customize-control.customize-control-radio {
+    flex-wrap: wrap;
+    margin-bottom: 0;
+    padding: 10px;
+}
+.customize-control.customize-control-radio span.customize-control-title {
+    flex: 0 0 100%;
+    display: block;
+    margin-bottom: 10px !important;
+    
+}
+.customize-control.customize-control-radio .description {
+    margin-bottom: 17px;
+    flex: 0 0 100%;
+    display: block;
+}
+
+.customize-inside-control-row input[type=radio] {
+	position: absolute !important;
+	clip: rect(0, 0, 0, 0);
+	height: 1px;
+	width: 1px;
+	border: 0;
+	overflow: hidden;
+}
+
+.customize-inside-control-row input[type=radio] ~ label {
+	background-color: #b5b5b5;
+    color: #ffffff;
+    font-size: 13px;
+    line-height: 1;
+    text-align: center;
+    padding: 5px 10px;
+    transition: all 0.1s ease-in-out;
+    vertical-align: middle;
+}
+
+.customize-inside-control-row input[type=radio] ~ label:hover {
+	cursor: pointer;
+}
+
+.customize-inside-control-row input[type=radio]:checked + label {
+	background-color: #20820edb;
+    box-shadow: none;
+    color: #fff;
+}
+
+/* input type range */
+
+#customize-theme-controls input[type=range] {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 3px;
+    border-radius: 5px;
+    background: #d3d3d3;
+    outline: none;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+ 
+#customize-theme-controls input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #50c83a;
+    cursor: pointer;
+}
+  
+#customize-theme-controls input[type=range]::-moz-range-thumb {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #50c83a;
+    cursor: pointer;
+  }
+
+.customize-control.customize-control-text > .bg-white {
+    background: #fff;
+    padding: 4px 10px;
+    border: 1px solid #dfdfdf;
+}
+.customize-control-description .bg-white,
+.widget-padding,
+.blog-padding,
+.ft-widget-padding {
+    background: #000000;
+    padding: 6px;
+    font-style: normal;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
+.customize-control span {
+    margin-bottom: 0;
+}
+.customize-control-text input,
+.customize-control select,
+.customize-control input[type=number],
+.customize-control input[type=url] {
+    min-height: 35px;
+    border: 1px solid #d4d4d4;
+    box-shadow: none;
+}
+
+.wp-picker-container .wp-color-result.button {
+    height: 35px;
+    margin: 0 6px 6px 0;
+    padding: 0 0 0 30px;
+    font-size: 11px;
+    width: 100%;
+}
+button.button.wp-color-result span {
+    width: 70%;
+    float: right;
+    margin-right: 2px;
+    border-radius: 0;
+    line-height: 29px;
+    background: #fff;
+    color: #000;
+    text-transform: uppercase;
+}
+
+.customize-control {   
+    background: #fff;
+    padding: 10px;
+    width: 92.3%;
+    margin-top: 10px;
+    margin-bottom: 3px;
+}
+
+.customize-control .customize-inside-control-row {
+    display: inline-block;
+}
+
+/* widget padding and margin*/
+li#customize-control-suitbuilder_options-suitbuilder-widget-title-padding-top,
+li#customize-control-suitbuilder_options-suitbuilder-widget-title-padding-right,
+li#customize-control-suitbuilder_options-suitbuilder-widget-title-padding-left,
+li#customize-control-suitbuilder_options-suitbuilder-widget-title-padding-bottom,
+
+li#customize-control-suitbuilder_options-suitbuilder-widget-title-padding-top-mb,
+li#customize-control-suitbuilder_options-suitbuilder-widget-title-padding-right-mb,
+li#customize-control-suitbuilder_options-suitbuilder-widget-title-padding-left-mb,
+li#customize-control-suitbuilder_options-suitbuilder-widget-title-padding-bottom-mb,
+
+li#customize-control-suitbuilder_options-suitbuilder-widget-title-margin-top,
+li#customize-control-suitbuilder_options-suitbuilder-widget-title-margin-right,
+li#customize-control-suitbuilder_options-suitbuilder-widget-title-margin-bottom,
+li#customize-control-suitbuilder_options-suitbuilder-widget-title-margin-left,
+
+li#customize-control-suitbuilder_options-suitbuilder-widget-title-margin-top-mb,
+li#customize-control-suitbuilder_options-suitbuilder-widget-title-margin-right-mb,
+li#customize-control-suitbuilder_options-suitbuilder-widget-title-margin-bottom-mb,
+li#customize-control-suitbuilder_options-suitbuilder-widget-title-margin-left-mb,
+
+li#customize-control-suitbuilder_options-suitbuilder-ft-widget-title-padding-top,
+li#customize-control-suitbuilder_options-suitbuilder-ft-widget-title-padding-right,
+li#customize-control-suitbuilder_options-suitbuilder-ft-widget-title-padding-bottom,
+li#customize-control-suitbuilder_options-suitbuilder-ft-widget-title-padding-left,
+
+li#customize-control-suitbuilder_options-suitbuilder-ft-widget-title-padding-left-mb,
+li#customize-control-suitbuilder_options-suitbuilder-ft-widget-title-padding-right-mb,
+li#customize-control-suitbuilder_options-suitbuilder-ft-widget-title-padding-top-mb,
+li#customize-control-suitbuilder_options-suitbuilder-ft-widget-title-padding-bottom-mb,
+
+li#customize-control-suitbuilder_options-suitbuilder-ft-widget-title-margin-top,
+li#customize-control-suitbuilder_options-suitbuilder-ft-widget-title-margin-right,
+li#customize-control-suitbuilder_options-suitbuilder-ft-widget-title-margin-bottom,
+li#customize-control-suitbuilder_options-suitbuilder-ft-widget-title-margin-left,
+
+li#customize-control-suitbuilder_options-suitbuilder-ft-widget-title-margin-top-mb,
+li#customize-control-suitbuilder_options-suitbuilder-ft-widget-title-margin-right-mb,
+li#customize-control-suitbuilder_options-suitbuilder-ft-widget-title-margin-bottom-mb,
+li#customize-control-suitbuilder_options-suitbuilder-ft-widget-title-margin-left-mb,
+
+li#customize-control-suitbuilder_options-suitbuilder-blog-title-padding-top,
+li#customize-control-suitbuilder_options-suitbuilder-blog-title-padding-right,
+li#customize-control-suitbuilder_options-suitbuilder-blog-title-padding-bottom,
+li#customize-control-suitbuilder_options-suitbuilder-blog-title-padding-left,
+
+li#customize-control-suitbuilder_options-suitbuilder-blog-title-margin-bottom,
+li#customize-control-suitbuilder_options-suitbuilder-blog-title-margin-top,
+li#customize-control-suitbuilder_options-suitbuilder-blog-title-margin-right,
+li#customize-control-suitbuilder_options-suitbuilder-blog-title-margin-left,
+
+li#customize-control-suitbuilder_options-suitbuilder-blog-title-padding-top-mb,
+li#customize-control-suitbuilder_options-suitbuilder-blog-title-padding-right-mb,
+li#customize-control-suitbuilder_options-suitbuilder-blog-title-padding-bottom-mb,
+li#customize-control-suitbuilder_options-suitbuilder-blog-title-padding-left-mb,
+
+li#customize-control-suitbuilder_options-suitbuilder-blog-title-margin-top-mb,
+li#customize-control-suitbuilder_options-suitbuilder-blog-title-margin-right-mb,
+li#customize-control-suitbuilder_options-suitbuilder-blog-title-margin-bottom-mb,
+li#customize-control-suitbuilder_options-suitbuilder-blog-title-margin-left-mb {
+    width: 17%;
+    margin: 0;
+    clear: none;
+    margin-top: 8px;
+    float: left;
+}
+
+.customize-control-title {
+    font-size: 12px !important;
+}
+.suitbuilder-upsell ul li {
+    font-size: 13px;
+    background: #fd9934;
+    padding: 8px;
+    color: #0c0c0c;
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 1.5;
+    font-weight: 600;
+    border: 1px solid #8e8e8e;
+    cursor: no-drop;
+}
+
+ul.suitbuilder-upsell-features {
+    margin-bottom: 21px;
+}
+
+li#accordion-section-suitbuilder_info_main_section h3 {
+    background: #ff8100c7 !important;
+    color: #fff !important;
+}
+

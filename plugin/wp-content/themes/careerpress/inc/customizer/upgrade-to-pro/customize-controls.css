@@ -1,0 +1,24 @@
+#customize-controls .control-section-careerpress .accordion-section-title:hover,
+#customize-controls .control-section-careerpress .accordion-section-title:focus {
+	background-color: #23272a;
+	color: #fff;
+}
+
+.control-section-careerpress .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+	background-color: #ffbb44;
+	border-color: #ffbb44;
+	color: #fff;
+}
+
+.rtl .control-section-careerpress .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+
+li#accordion-section-careerpress h3.accordion-section-title {
+    background-color: #23272a;
+    color: #fff;
+}

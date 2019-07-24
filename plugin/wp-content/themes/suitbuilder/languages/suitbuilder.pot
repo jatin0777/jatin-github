@@ -1,0 +1,1691 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-14 12:50+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:22 inc/function/inner-head.php:43
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:50 inc/customizer/theme-options/color.php:24
+#: inc/customizer/theme-options/font.php:28
+msgid "Primary"
+msgstr ""
+
+#: functions.php:51 inc/customizer/theme-options/color.php:38
+#: inc/customizer/theme-options/font.php:43
+msgid "Secondary"
+msgstr ""
+
+#: functions.php:52
+msgid "Social"
+msgstr ""
+
+#: functions.php:145
+msgctxt "%s font: on or off"
+msgid "on"
+msgstr ""
+
+#: search.php:23 inc/function/inner-head.php:51
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:244
+msgid "Browse:"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:246
+msgid "Home"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:248
+msgid "Archives"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:250
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:254
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:256
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:758
+#: assets/breadcrumbs/breadcrumbs.php:787
+#: assets/breadcrumbs/breadcrumbs.php:814
+#: assets/breadcrumbs/breadcrumbs.php:841
+#: assets/breadcrumbs/breadcrumbs.php:1181
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:759
+#: assets/breadcrumbs/breadcrumbs.php:815
+#: assets/breadcrumbs/breadcrumbs.php:1185
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:760
+#: assets/breadcrumbs/breadcrumbs.php:1189
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/template-tags.php:54 inc/template-tags.php:61
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:57 inc/template-tags.php:64
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#: inc/template-tags.php:70
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:70
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:70
+msgid "% Comments"
+msgstr ""
+
+#: inc/customizer/customizer.php:92 inc/customizer/customizer.php:102
+msgid "Reset All Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:103
+msgid ""
+"Caution: This will reset all options to default. Publish the changes and "
+"Refresh the page to view the changes. "
+msgstr ""
+
+#: inc/customizer/customizer.php:115
+msgid "Additional CSS"
+msgstr ""
+
+#: inc/customizer/defaults.php:27
+msgid "+01 -1234567"
+msgstr ""
+
+#: inc/customizer/defaults.php:28
+msgid "example@gmail.com"
+msgstr ""
+
+#: inc/customizer/defaults.php:29
+msgid "Mount Eden Road, Mount Eden"
+msgstr ""
+
+#: inc/customizer/defaults.php:30
+msgid "type_1"
+msgstr ""
+
+#: inc/customizer/defaults.php:45
+msgid "Buy Now"
+msgstr ""
+
+#: inc/customizer/defaults.php:48
+msgid "fa-dollar"
+msgstr ""
+
+#: inc/customizer/defaults.php:93 inc/customizer/defaults.php:130
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/defaults.php:96
+msgid "Download"
+msgstr ""
+
+#: inc/customizer/defaults.php:122
+msgid "Latest Blog"
+msgstr ""
+
+#: inc/customizer/defaults.php:178
+msgid "Copyright &copy; All right reserved."
+msgstr ""
+
+#: inc/customizer/defaults.php:181
+msgid "Theme: Suitbuilder by "
+msgstr ""
+
+#: inc/customizer/defaults.php:182
+msgid "SuitbuilderTheme"
+msgstr ""
+
+#: inc/customizer/theme-options/all-panels.php:6
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:13
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:24
+msgid "Blog Header"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:38
+msgid "Blog backgroun Color"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:53
+msgid "Select Number of post for latest blog"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:67
+msgid "Latest Blog Excerpt Length"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:83
+msgid "Blog Title Options"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:99
+#: inc/customizer/theme-options/slider.php:281
+msgid "Show Title"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:113
+#: inc/customizer/theme-options/inner-header.php:45
+#: inc/customizer/theme-options/slider.php:424
+msgid "Title Color"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:127
+#: inc/customizer/theme-options/inner-header.php:60
+msgid "Title Font Size(px)"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:141
+#: inc/customizer/theme-options/inner-header.php:74
+#: inc/customizer/theme-options/site-identity.php:61
+#: inc/customizer/theme-options/slider.php:485
+msgid "Title Font Weight"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:155
+#: inc/customizer/theme-options/inner-header.php:88
+msgid "Title Text Transform"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:159
+#: inc/customizer/theme-options/footer.php:220
+#: inc/customizer/theme-options/header.php:371
+#: inc/customizer/theme-options/inner-header.php:92
+#: inc/customizer/theme-options/sidebar-setting.php:168
+#: inc/customizer/theme-options/site-identity.php:79
+#: inc/customizer/theme-options/slider.php:503
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:160
+#: inc/customizer/theme-options/footer.php:221
+#: inc/customizer/theme-options/header.php:372
+#: inc/customizer/theme-options/inner-header.php:93
+#: inc/customizer/theme-options/sidebar-setting.php:169
+#: inc/customizer/theme-options/site-identity.php:80
+#: inc/customizer/theme-options/slider.php:504
+msgid "Lowercase"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:161
+#: inc/customizer/theme-options/footer.php:222
+#: inc/customizer/theme-options/header.php:373
+#: inc/customizer/theme-options/inner-header.php:94
+#: inc/customizer/theme-options/sidebar-setting.php:170
+#: inc/customizer/theme-options/site-identity.php:81
+#: inc/customizer/theme-options/slider.php:505
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:175
+msgid "Blog Content Options"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:190
+msgid "Show Excerpt"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:204
+#: inc/customizer/theme-options/slider.php:439
+msgid "Content Color"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:218
+msgid "Blog Enable/Disable Options"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:233
+#: inc/customizer/theme-options/slider.php:311
+msgid "Show Image"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:248
+msgid "Show Date/Author/Category"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:262
+msgid "Show button"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:276
+msgid "Blog Advance Options"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:293
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:297
+msgid "List"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:298
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:313
+msgid "Post Content Order"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:317
+msgid "Title-Image-Content"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:318
+msgid "Image-Title-Content"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:319
+msgid "Content-Image-Title"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:334
+#: inc/customizer/theme-options/header.php:111
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:335
+msgid "it will only change the latest blog button text"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:349
+msgid "Pagination"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:350
+msgid "It will only change the latest blog pagination"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:354
+msgid "Numeric"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:355
+msgid "Default(Older Post/Newer Post)"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:368
+#: inc/customizer/theme-options/blog.php:383
+#: inc/customizer/theme-options/footer.php:298
+#: inc/customizer/theme-options/footer.php:315
+#: inc/customizer/theme-options/general-setting.php:182
+#: inc/customizer/theme-options/general-setting.php:199
+#: inc/customizer/theme-options/header.php:416
+#: inc/customizer/theme-options/header.php:434
+#: inc/customizer/theme-options/inner-header.php:159
+#: inc/customizer/theme-options/sidebar-setting.php:184
+#: inc/customizer/theme-options/sidebar-setting.php:200
+#: inc/customizer/theme-options/slider.php:566
+#: inc/customizer/theme-options/slider.php:582
+#: inc/customizer/theme-options/top-header-bar.php:241
+#: inc/customizer/theme-options/top-header-bar.php:258
+msgid "Reset"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:384
+msgid ""
+"Caution: This will reset latest blog options to default. Publish the changes "
+"and Refresh the page to view the changes."
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:16
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:27
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:41
+msgid "Breadcrumb Option"
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:58
+msgid "Breadcrumb Background Color"
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:72
+msgid "Breadcrumb Text Color"
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:86
+msgid "Breadcrumb Font Family"
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:101
+msgid "Breadcrumb Layout"
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:105
+msgid "Breadcrumb Left"
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:106
+msgid "Breadcrumb Center"
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:107
+msgid "Breadcrumb Right"
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:120
+msgid "Breadcrumb Margin Bottom"
+msgstr ""
+
+#: inc/customizer/theme-options/color.php:13
+msgid "Colors Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/font.php:17
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:13
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:25
+msgid "Show Footer"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:39
+msgid "Creadit Options"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:57
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:75
+msgid "Theme Name"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:90
+msgid "Credit Link "
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:105
+msgid "Site Url"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:122
+msgid "Show Social Links"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:137
+msgid "Footer Weight Options"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:153
+#: inc/customizer/theme-options/sidebar-setting.php:92
+msgid "Widget Title Color"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:169
+#: inc/customizer/theme-options/sidebar-setting.php:106
+msgid "Widget Content Color"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:185
+#: inc/customizer/theme-options/sidebar-setting.php:136
+#: inc/customizer/theme-options/site-identity.php:47
+#: inc/customizer/theme-options/slider.php:470
+msgid "Title Font Size"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:201
+#: inc/customizer/theme-options/sidebar-setting.php:150
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:216
+#: inc/customizer/theme-options/sidebar-setting.php:164
+msgid "Widget Title Transform"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:236
+msgid "Footer Background Options"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:252
+msgid "Footer Background"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:267
+#: inc/customizer/theme-options/header.php:387
+#: inc/customizer/theme-options/inner-header.php:31
+#: inc/customizer/theme-options/preloader.php:39
+#: inc/customizer/theme-options/slider.php:409
+#: inc/customizer/theme-options/top-header-bar.php:182
+#: inc/customizer/theme-options/top-header-bar.php:212
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:282
+#: inc/customizer/theme-options/inner-header.php:108
+#: inc/customizer/theme-options/slider.php:550
+msgid "Background Transparent"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:283
+#: inc/customizer/theme-options/inner-header.php:109
+#: inc/customizer/theme-options/slider.php:551
+msgid "minimum opacity is 0 and maximum opacity is 1"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:316
+msgid ""
+"Caution: This will reset footer options to default. Publish the changes and "
+"Refresh the page to view the changes."
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:16
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:29
+msgid "Enable Static Front Page"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:30
+msgid ""
+"If you disable this, the static page will be disappeared form the front page "
+"and other section will remain as it is"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:43
+msgid "Basic Options"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:58
+msgid "Alignment of Image in Single Post/Page"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:62
+#: inc/post-meta/layout-meta.php:54
+msgid "Full"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:63
+#: inc/customizer/theme-options/general-setting.php:152
+#: inc/customizer/theme-options/inner-header.php:130
+#: inc/customizer/theme-options/sidebar-setting.php:33
+#: inc/customizer/theme-options/slider.php:396
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:64
+#: inc/customizer/theme-options/general-setting.php:153
+#: inc/customizer/theme-options/inner-header.php:128
+#: inc/customizer/theme-options/sidebar-setting.php:34
+#: inc/customizer/theme-options/slider.php:394
+#: inc/post-meta/layout-meta.php:62
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:65
+msgid "No image"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:68
+msgid ""
+"Please note that this setting can be overridden by individual post/page "
+"settings"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:78
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:82
+msgid "Excerpt Only"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:83
+msgid "Thumbnail and Excerpt"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:84
+msgid "Full Post"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:85
+msgid "Thumbnail and Full Post"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:97
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:101
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:102
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:116
+msgid "Scroll Button"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:133
+msgid "Show Scroll To Top"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:148
+msgid "Scroll To Top Button Layout"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:166
+msgid "Icon Scroll Button"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:168
+#: inc/customizer/theme-options/header.php:155
+#: inc/customizer/theme-options/slider.php:190
+#: inc/customizer/theme-options/slider.php:234
+#, php-format
+msgid "Eg: %1$s. %2$s View Font Awesome. %3$s"
+msgstr ""
+
+#: inc/customizer/theme-options/general-setting.php:200
+msgid ""
+"Caution: This will reset general setting options to default. Publish the "
+"changes and Refresh the page to view the changes."
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:16
+msgid "Main Header Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:28
+msgid "Show Main Header"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:43
+msgid "Scroll Header"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:58
+msgid "Header button or Short Code"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:76
+msgid "Select Button/Shortcode"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:77
+msgid ""
+"if you select button you will get more option about button,else get options "
+"for shortcode"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:81
+msgid "Button"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:82
+msgid "Shortcode"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:95
+msgid "Shortcode Textarea"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:125
+msgid "Button Url"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:139
+msgid "Button Open In New Tab"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:153
+msgid "Button Icon"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:169
+msgid "Button Background Options"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:173
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:174
+msgid "Hover Background"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:188
+msgid " Background Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:202
+msgid " text Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:217
+msgid " hover Background Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:231
+msgid " hover text Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:245
+msgid "Button Text Font Family"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:261
+msgid "Button Text Font Size"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:276
+msgid "Button Text Font Weight"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:291
+#: inc/customizer/theme-options/slider.php:248
+msgid "Advance Options"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:306
+#: inc/customizer/theme-options/header.php:323
+msgid "Menu Font Family"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:307
+msgid "Please Enable For more Options"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:339
+msgid "Menu Font Size"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:353
+msgid "Menu Font Weight"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:367
+msgid " Menu Transform"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:401
+#: inc/customizer/theme-options/top-header-bar.php:226
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/theme-options/header.php:435
+msgid ""
+"Caution: This will reset main header options to default. Publish the changes "
+"and Refresh the page to view the changes."
+msgstr ""
+
+#: inc/customizer/theme-options/inner-header.php:16
+msgid "Show Inner header"
+msgstr ""
+
+#: inc/customizer/theme-options/inner-header.php:124
+msgid "Title Alignment"
+msgstr ""
+
+#: inc/customizer/theme-options/inner-header.php:129
+#: inc/customizer/theme-options/slider.php:395
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/theme-options/inner-header.php:144
+msgid "Padding"
+msgstr ""
+
+#: inc/customizer/theme-options/inner-header.php:145
+msgid "it will work padding top and buttom"
+msgstr ""
+
+#: inc/customizer/theme-options/inner-header.php:160
+msgid ""
+"Caution: This will reset inner header options to default. Publish the "
+"changes and Refresh the page to view the changes."
+msgstr ""
+
+#: inc/customizer/theme-options/preloader.php:13
+msgid "Preloader Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/preloader.php:24
+msgid "Show Preloader"
+msgstr ""
+
+#: inc/customizer/theme-options/preloader.php:53
+msgid "Select Preloader"
+msgstr ""
+
+#: inc/customizer/theme-options/preloader.php:57
+#: inc/customizer/theme-options/top-header-bar.php:148
+#: inc/customizer/theme-options/top-header-bar.php:168
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/theme-options/preloader.php:58
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/theme-options/preloader.php:71
+msgid " Preloader Image"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar-setting.php:16
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar-setting.php:28
+msgid "Sidebar Layout Options"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar-setting.php:29
+msgid ""
+"Please note that this section can be overridden by individual page/posts "
+"settings"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar-setting.php:35
+msgid "No"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar-setting.php:48
+msgid "Color Options"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar-setting.php:63
+msgid "Sidebar Baclground Color"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar-setting.php:78
+msgid "Widget Baclground Color"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar-setting.php:121
+msgid "Sidebar Title"
+msgstr ""
+
+#: inc/customizer/theme-options/sidebar-setting.php:201
+#: inc/customizer/theme-options/slider.php:583
+msgid ""
+"Caution: This will reset sidebar options to default. Publish the changes and "
+"Refresh the page to view the changes."
+msgstr ""
+
+#: inc/customizer/theme-options/site-identity.php:17
+msgid "Site Identity Color"
+msgstr ""
+
+#: inc/customizer/theme-options/site-identity.php:31
+msgid "Site Idenity Font Family"
+msgstr ""
+
+#: inc/customizer/theme-options/site-identity.php:75
+msgid "Title  Transform"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:19
+msgid "Slider Setting"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:30
+msgid "Show slider"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:45
+msgid "Select number of word"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:46
+msgid "its work only for slider content"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:60
+msgid "Post/Page Options"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:76
+msgid "Select Slider From"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:80
+msgid "From Post"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:81
+msgid "From Page"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:94
+msgid "Select Category for slider"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:112
+#, php-format
+msgid "Select page  for slider %s"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:128
+msgid "Button Options"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:143
+msgid "Show Slider Button"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:144
+msgid "Enable,To Get More Buton Options"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:159
+msgid "Primary Button"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:173
+msgid "Primary Button Url"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:174
+msgid "If there is no button link ,it will take page/post url"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:188
+#: inc/customizer/theme-options/slider.php:232
+msgid "Primary Button Icon"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:204
+msgid "Secondary Button"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:218
+msgid "Secondary Button Url"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:264
+#: inc/customizer/theme-options/top-header-bar.php:128
+msgid "Advance Option"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:265
+msgid "Enable To get More Advance Options"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:296
+msgid "Show Content"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:327
+msgid "Show Arrow"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:342
+msgid "Enable Autoplay"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:357
+msgid "Autoplay Duration"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:358
+msgid "Time in sec"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:373
+msgid "Show Pager"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:389
+msgid "Text Alingment"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:390
+msgid "it will works for all text (title,content,button)"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:454
+msgid "Title Font Family"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:499
+msgid "Slider Title Transform"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:519
+msgid "Content Font Family"
+msgstr ""
+
+#: inc/customizer/theme-options/slider.php:535
+msgid "Content Font Size"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-bar.php:11
+msgid "Top Header Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-bar.php:23
+msgid "Show Top Header Bar"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-bar.php:39
+msgid "Show Secondary Menu"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-bar.php:53
+msgid "Show Socail Menu"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-bar.php:67
+msgid "Contact Text Feild"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-bar.php:84
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-bar.php:98
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-bar.php:113
+msgid "Address"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-bar.php:144
+msgid "Layout Style"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-bar.php:149
+msgid "Social link-Menu-Contact"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-bar.php:150
+msgid "Menu-Social link-Contact"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-bar.php:151
+msgid "Contact-Menu-Social link"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-bar.php:164
+msgid "Socail Menu Color Select"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-bar.php:169
+msgid "Custom"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-bar.php:196
+msgid "Icon Color"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-bar.php:259
+msgid ""
+"Caution: This will reset top header options to default. Publish the changes "
+"and Refresh the page to view the changes."
+msgstr ""
+
+#: inc/demo-install/install-plugins.php:44
+msgid "Elementor"
+msgstr ""
+
+#: inc/demo-install/install-plugins.php:50
+msgid "Contact From 7"
+msgstr ""
+
+#: inc/demo-install/install-plugins.php:55
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:326
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:329
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:331
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:332
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:347
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:353
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:384
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:385
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:843
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2549
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:3596
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:386
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:3175
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:387
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2968
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:389
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:391
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:393
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:394
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:395
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:396
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:538
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:539
+msgid "Update Required"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:950
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:950
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:953
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:953
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:1137
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2964
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:1998
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2289
+msgid "Required"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2292
+msgid "Recommended"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2308
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2311
+msgid "External Source"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2314
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2331
+msgid "Not Installed"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2335
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2337
+msgid "Active"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2343
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2346
+msgid "Requires Update"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2349
+msgid "Update recommended"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2358
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2404
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2408
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2412
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2416
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2498
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2506
+msgid "Installed version:"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2514
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2526
+msgid "Available version:"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2549
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2563
+msgid "Plugin"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2564
+msgid "Source"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2565
+msgid "Type"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2569
+msgid "Version"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2570
+msgid "Status"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2619
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2624
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2630
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2700
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2733
+msgid "Install"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2739
+msgid "Update"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2742
+msgid "Activate"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2773
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2775
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2816
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2818
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2924
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:3174
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:3514
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:3519
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:3523
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:3525
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:3525
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:3533
+msgid "Show Details"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:3525
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:3533
+msgid "Hide Details"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:3526
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:3528
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:3531
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:3533
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:3534
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/demo-install/tgm/class-tgm-plugin-activation.php:3536
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/frameworks/suitbuilder-customizer/inc/custom-control/suitbuilder-post-dropdown-control.php:49
+#: inc/frameworks/suitbuilder-customizer/inc/custom-control/suitbuilder-tags-dropdown-control.php:47
+#: inc/frameworks/suitbuilder-customizer/inc/custom-control/suitbuilder-user-dropdown-control.php:44
+msgid "Select"
+msgstr ""
+
+#: inc/function/words-count.php:10
+msgid "&hellip;"
+msgstr ""
+
+#: inc/hooks/header.php:216
+msgid "Skip to content"
+msgstr ""
+
+#: inc/hooks/widgets.php:10
+msgid "Sidebar"
+msgstr ""
+
+#: inc/hooks/widgets.php:20
+msgid "Full Width Widget"
+msgstr ""
+
+#: inc/hooks/widgets.php:22
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/hooks/widgets.php:31
+msgid "Footer Column One"
+msgstr ""
+
+#: inc/hooks/widgets.php:33 inc/hooks/widgets.php:43 inc/hooks/widgets.php:53
+#: inc/hooks/widgets.php:64
+msgid "Displays items on footer section."
+msgstr ""
+
+#: inc/hooks/widgets.php:41
+msgid "Footer Column Two"
+msgstr ""
+
+#: inc/hooks/widgets.php:51
+msgid "Footer Column Three"
+msgstr ""
+
+#: inc/hooks/widgets.php:62
+msgid "Footer Column Four"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:25
+msgid "Layout options"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:38
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:42
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:46
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:58
+msgid "Right "
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:66
+msgid "No Image"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:86
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:109
+msgid "You can set up the sidebar content"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:109
+msgid "here"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:113
+msgid "Featured Image Alignment"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:40 template-parts/content-single.php:47
+#: template-parts/content.php:112
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-page.php:52
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/content.php:37 template-parts/content.php:66
+#, php-format
+msgid "Read More %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
