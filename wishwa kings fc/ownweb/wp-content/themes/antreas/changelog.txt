@@ -1,0 +1,5 @@
+Version 1.0.1
+Added compatibility with Kaliforms
+
+Version 1.0.0
+Theme release!

@@ -1,0 +1,230 @@
+
+@keyframes left-right {
+0% {
+    transform: translateY(-20%) translateX(-10%);
+}
+100% {
+    transform: translateY(0%) translateX(10%);
+}
+}
+@keyframes left-right {
+0% {
+    transform: translateY(-20%) translateX(-10%);
+}
+100% {
+    transform: translateY(0%) translateX(10%);
+}
+}
+@keyframes right-left {
+0% {
+    transform: translateY(0%) translateX(10%);
+}
+100% {
+    transform: translateY(-20%) translateX(-10%);
+}
+}
+@keyframes right-left {
+0% {
+    transform: translateY(0%) translateX(10%);
+}
+100% {
+    transform: translateY(-20%) translateX(-10%);
+}
+}
+.sy-box.sy-loading {
+    background: url("sy-loader.gif") no-repeat scroll 50% 50% rgba(0, 0, 0, 0);
+    min-height: 40px;
+}
+.sy-box.sy-loading .sy-slides-wrap, .sy-box.sy-loading .sy-pager {
+    visibility: hidden;
+}
+.sy-slides-wrap {
+    height: 100%;
+    position: relative;
+    width: 100%;
+}
+.sy-slides-wrap:hover .sy-controls {
+    display: block;
+}
+.sy-slides-crop {
+    height: 100%;
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+}
+.sy-list {
+    height: 100%;
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 100%;
+}
+.sy-list.horizontal {
+    transition: left 0s ease 0s;
+}
+.sy-slide {
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+}
+.sy-slide.fade.useCSS.transition {
+    transition: opacity 0s ease 0s;
+}
+.sy-slide.kenburns {
+    left: -20%;
+    width: 140%;
+}
+.sy-slide.kenburns.useCSS.sy-ken:nth-child(n) {
+    animation-fill-mode: forwards;
+    animation-name: left-right;
+}
+.sy-slide.kenburns.useCSS.sy-ken:nth-child(2n) {
+    animation-fill-mode: forwards;
+    animation-name: right-left;
+}
+.sy-slide.kenburns.useCSS.transition {
+    transition: opacity 0s ease 0s;
+}
+.sy-slide.sy-active {
+    z-index: 3;
+}
+.sy-slide > a {
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.sy-slide > a > img {
+    border: 0 none;
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.sy-controls {
+    display: none;
+    height: 100%;
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 100%;
+}
+.sy-controls li {
+    height: 100%;
+    min-width: 4.2em;
+    position: absolute;
+    width: 10%;
+    z-index: 33;
+}
+.sy-controls li.sy-prev {
+    left: 0;
+    top: 0;
+}
+.sy-controls li.sy-prev a::after {
+    background-position: -5% 0;
+}
+.sy-controls li.sy-next {
+    right: 0;
+    top: 0;
+}
+.sy-controls li.sy-next a::after {
+    background-position: 105% 0;
+}
+.sy-controls li a {
+    display: block;
+    height: 100%;
+    position: relative;
+    text-indent: -9999px;
+    width: 100%;
+}
+.sy-controls li a:link, .sy-controls li a:visited {
+    opacity: 0.4;
+}
+.sy-controls li a:hover, .sy-controls li a:focus {
+    opacity: 0.8;
+    outline: medium none;
+}
+.sy-controls li a::after {
+    background-color: #fff;
+    background-image: url("arrows.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    color: #111;
+    content: "";
+    font-weight: 800;
+    height: 2.8em;
+    left: 50%;
+    line-height: 2.8em;
+    margin-left: -1.4em;
+    margin-top: -1.4em;
+    position: absolute;
+    text-align: center;
+    text-indent: 0;
+    top: 50%;
+    width: 2.8em;
+}
+.sy-caption-wrap {
+    bottom: 2em;
+    left: 50%;
+    position: absolute;
+    z-index: 12;
+}
+.sy-caption-wrap .sy-caption {
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 1.2em;
+    color: #fff;
+    left: -50%;
+    padding: 0.4em 1em;
+    position: relative;
+}
+.sy-caption-wrap .sy-caption a:link, .sy-caption-wrap .sy-caption a:visited {
+    color: #e24b70;
+    font-weight: 600;
+    text-decoration: none;
+}
+.sy-caption-wrap .sy-caption a:hover, .sy-caption-wrap .sy-caption a:focus {
+    text-decoration: underline;
+}
+.sy-pager {
+    display: block;
+    list-style: outside none none;
+    margin: 1em 0 0;
+    overflow: hidden;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+}
+.sy-pager li {
+    border-radius: 50%;
+    display: inline-block;
+    height: 1.2em;
+    margin: 0 1em 0 0;
+    width: 1.2em;
+}
+.sy-pager li.sy-active a {
+    background-color: #e24b70;
+}
+.sy-pager li a {
+    background-color: #cccccc;
+    background-size: 2em auto;
+    border-radius: 50%;
+    display: block;
+    height: 100%;
+    text-indent: -9999px;
+    width: 100%;
+}
+.sy-pager li a:link, .sy-pager li a:visited {
+    opacity: 1;
+}
+.sy-pager li a:hover, .sy-pager li a:focus {
+    opacity: 0.6;
+}
+.sy-filler {
+    width: 100%;
+}
+.sy-filler.ready {
+    transition: padding 600ms ease 0s;
+}

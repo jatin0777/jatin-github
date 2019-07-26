@@ -1,0 +1,619 @@
+# Copyright (C) 2018 Catch Plugins
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gallery and Widget for Instagram\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2019-06-25 01:11-0400\n"
+"PO-Revision-Date: 2016-12-12 09:23-0500\n"
+"Last-Translator: Sakin Shrestha <info@catchplugins.com>\n"
+"Language-Team: Catch Plugins <info@catchplugins.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;esc_attr_e;esc_attr__;_nx;_x;"
+"esc_html_e;esc_html__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_n_noop:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:123
+msgid "Settings"
+msgstr ""
+
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:137
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:138
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:21
+#: ../includes/class-catch-instagram-feed-gallery-widget-shortcode.php:38
+#: ../includes/class-catch-instagram-feed-gallery-widget-widget.php:42
+#: ../includes/class-catch-instagram-feed-gallery-widget-widget.php:66
+msgid "Gallery and Widget for Instagram"
+msgstr ""
+
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:153
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:205
+msgid "Options saved successfully."
+msgstr ""
+
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:208
+msgid "Error! There was a problem."
+msgstr ""
+
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:214
+#: ../admin/class-catch-instagram-feed-gallery-widget-admin.php:219
+msgid "Error, please try again."
+msgstr ""
+
+#: ../admin/partials/CatchThemesThemePlugin.php:109
+msgid "Themes by CatchThemes"
+msgstr ""
+
+#: ../admin/partials/CatchThemesThemePlugin.php:398
+msgctxt "Plugin Installer"
+msgid "Catch Plugins"
+msgstr ""
+
+#: ../admin/partials/CatchThemesThemePlugin.php:437
+#, php-format
+msgid ""
+"You can use any of our free plugins or premium plugins from <a href=\"%s\" "
+"target=\"_blank\">Catch Plugins</a>"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:26
+msgid "Dismiss"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:31
+msgid "Welcome to Gallery and Widget for Instagram Settings"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:33
+msgid ""
+"Gallery and Widget for Instagram Plugin adds the posts from your Instagram "
+"account that you want to showcase on your website."
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:35
+msgid ""
+"You can add Instagram Feed as Gallery or Widget on your website. Simply "
+"either drag-and-drop the plugin in the widget area or you can add a shortcode "
+"from your WordPress dashboard if you want to place a copy of your Instagram "
+"feed directly onto your post/page."
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:48
+msgid "Dashboard"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:49
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:223
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:287
+msgid "Features"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:50
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:279
+msgid "Compare Table"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:57
+msgid "Add Instagram Feed as Gallery or Widget"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:62
+msgid "1. Add using Widget via our Instagram Widget"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:63
+msgid "Go to Widgets"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:66
+msgid "2. Add using Shortcode in Page/Post "
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:69
+msgid "Add in New:"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:70
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:73
+msgid "Post"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:70
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:73
+msgid "Page"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:73
+msgid "Add in Existing:"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:104
+msgid "Options reset successfully."
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:107
+msgid "Reset failed, please try again"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:115
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:130
+msgid "Get Access Token"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:119
+msgid ""
+"You can show instagram feed from any Private instagram accounts by providing "
+"the Access Token. This section allows you to set API parameters."
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:133
+msgid "Reset Access Token"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:144
+msgid "Catch Themes & Catch Plugins Tabs"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:149
+msgid ""
+"If you want to turn off Catch Themes & Catch Plugins tabs option in Add "
+"Themes and Add Plugins page, please uncheck the following option."
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:154
+msgid "Turn On Catch Themes & Catch Plugin tabs"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:175
+msgid "Go Premium!"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:180
+msgid "Dismiss this item."
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:184
+#: ../admin/partials/sidebar.php:9
+msgid "Gallery and Widget for Instagram Shortcode Generator button in Post/Page"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:185
+#: ../admin/partials/sidebar.php:10
+msgid "Column Options (2 to 8 columns)"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:186
+#: ../admin/partials/sidebar.php:11
+msgid "Editable load more"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:187
+#: ../admin/partials/sidebar.php:12
+msgid "Hide Load more"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:188
+#: ../admin/partials/sidebar.php:13
+msgid ""
+"Layout Options: Option to choose from 1. Masonry layout 2. Grid layout 3. "
+"Round layout"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:189
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:408
+#: ../admin/partials/sidebar.php:14
+msgid "Lightbox"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:190
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:448
+#: ../admin/partials/sidebar.php:15
+msgid "Likes &amp; Comments count"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:191
+#: ../admin/partials/sidebar.php:16
+msgid "Link to image in instagram"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:192
+#: ../admin/partials/sidebar.php:17
+msgid "Load More option"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:193
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:440
+#: ../admin/partials/sidebar.php:18
+msgid "Padding in-between"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:195
+#: ../admin/partials/sidebar.php:19
+msgid "Show feeds by Hashtag"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:196
+#: ../admin/partials/sidebar.php:21
+msgid "Toggle link to instagram post"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:199
+msgid ""
+"Find out why you should upgrade to Gallery and Widget for Instagram Premium »"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:206
+msgid "Pro Screenshot"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:229
+msgid "Image Sizes"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:230
+msgid ""
+"You can choose the size of the images you want to display. You can either "
+"choose to display the thumbnail, small, or large size of the images."
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:234
+msgid "Incredible Support"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:235
+msgid ""
+"We have a great line of support team and support documentation. You do not "
+"need to worry about how to use the plugins we provide, just refer to our Tech "
+"Support Forum. Further, if you need to do advanced customization to your "
+"website, you can always hire our theme customizer!"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:239
+msgid "Number of Posts"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:240
+msgid ""
+"You have the option to choose the number of posts you want to display on your "
+"website. Pick the number of posts that suits the best on your website."
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:244
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:296
+msgid "Responsive Design"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:245
+msgid ""
+"One of the key features of our plugins is that your website will magically "
+"respond and adapt to different screen sizes delivering an optimized design "
+"for iPhones, iPads, and other mobile devices. No longer will you need to zoom "
+"and scroll around when browsing on your mobile phone."
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:249
+msgid "Shortcodes"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:250
+msgid ""
+"With Shortcodes, you have the option to use the powerful shortcode options to "
+"style multiple contents in completely different ways."
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:254
+msgid "Super Simple to Set Up"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:255
+msgid ""
+"It is super easy to set up. Even the beginners can set it up easily and also, "
+"you do not need to have any coding knowledge. Just install, activate, "
+"customize it your way and enjoy the plugin."
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:259
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:360
+msgid "Widgets"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:260
+msgid ""
+"Multitude of widget options provide you with the option to choose the widgets "
+"that you want to display. You can have full control over each widget’s "
+"visibility and appearance. You can assign different contents on your "
+"sidebars, footer and any sidebar widgets."
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:263
+msgid "Upgrade to Gallery and Widget for Instagram Premium »"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:271
+msgid "Get Gallery and Widget for Instagram Pro -"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:271
+msgid "Get It Here!"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:272
+msgid ""
+"You are currently using the free version of Gallery and Widget for Instagram."
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:273
+msgid ""
+"If you have purchased from catchplugins.com, then follow this link to the "
+"installation instructions (particularly step 1)."
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:288
+msgid "Free"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:289
+msgid "Pro"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:304
+msgid "Super Easy Setup"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:312
+msgid "Lightweight"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:320
+msgid "Display By Username"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:328
+msgid "Number of posts"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:336
+msgid "Select image sizes"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:344
+msgid "View on Instagram link"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:352
+msgid "Shortcode"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:368
+msgid "Display By Tags"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:376
+msgid "Multiple Instagram Feeds"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:384
+msgid "Layout Options"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:392
+msgid "Column Option"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:400
+msgid "Load More Option"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:416
+msgid "Link to Post Option"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:424
+msgid "Hide Load More"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:432
+msgid "Editable load more/view on instagram text"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:456
+msgid "Ads-free Dashboard"
+msgstr ""
+
+#: ../admin/partials/catch-instagram-feed-gallery-widget-admin-display.php:477
+#, php-format
+msgid ""
+"If you have any request queries, please visit <a href=\"%s\" target=\"_blank"
+"\">this link</a>."
+msgstr ""
+
+#: ../admin/partials/footer.php:4
+msgid "Catch Plugins"
+msgstr ""
+
+#: ../admin/partials/footer.php:9
+msgid "View Themes"
+msgstr ""
+
+#: ../admin/partials/footer.php:10
+msgid "View Plugins"
+msgstr ""
+
+#: ../admin/partials/footer.php:11
+msgid "Support"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:3
+msgid "Recommendations"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:7
+msgid "Get Gallery and Widget for Instagram Pro"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:23
+msgid "Get Now"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:30
+msgid "Premium Themes"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:31
+msgid ""
+"Check out our simple, clean and responsive Premium WordPress Themes that come "
+"with an array of crucial features with a superior functionality."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:31
+msgid "Check our premium themes."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:38
+msgid "Free Themes"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:39
+msgid ""
+"Check out our collection of Free WordPress Themes that are clean, simple and "
+"feature-rich."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:39
+msgid "Check our free themes."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:47
+msgid "Premium Plugins"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:48
+msgid ""
+"Check out our secured Premium WordPress Plugins to enhance and add extra "
+"functionalities to your website. An exceptional way to get the most out of "
+"WordPress!"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:48
+msgid "Check our premium plugins."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:56
+msgid "Free Plugins"
+msgstr ""
+
+#: ../admin/partials/sidebar.php:57
+msgid ""
+"Check out our Free WordPress Plugins and get the taste of our service without "
+"affecting your wallet."
+msgstr ""
+
+#: ../admin/partials/sidebar.php:58
+msgid "check our free plugins."
+msgstr ""
+
+#: ../catch-instagram-feed-gallery-widget.php:53
+#, php-format
+msgid ""
+"Sorry, Pro plugin is already active. No need to activate Free version. "
+"%1$s&laquo; Return to Plugins%2$s."
+msgstr ""
+
+#: ../catch-instagram-feed-gallery-widget.php:139
+msgid "Thumbnail"
+msgstr ""
+
+#: ../catch-instagram-feed-gallery-widget.php:140
+msgid "Small"
+msgstr ""
+
+#: ../catch-instagram-feed-gallery-widget.php:141
+msgid "Large"
+msgstr ""
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-add-editor-button.php:49
+msgid "Add Catch Instagarm Feed Gallery & Widget Shortcodes"
+msgstr ""
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-add-editor-button.php:147
+#: ../includes/class-catch-instagram-feed-gallery-widget-widget.php:85
+msgid "Title"
+msgstr ""
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-add-editor-button.php:152
+msgid "Instagram Username"
+msgstr ""
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-add-editor-button.php:155
+#: ../includes/class-catch-instagram-feed-gallery-widget-widget.php:105
+msgid "More Options"
+msgstr ""
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-add-editor-button.php:159
+msgid "Number of items"
+msgstr ""
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-add-editor-button.php:162
+#: ../includes/class-catch-instagram-feed-gallery-widget-widget.php:111
+msgid "Max is 30."
+msgstr ""
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-add-editor-button.php:165
+#: ../includes/class-catch-instagram-feed-gallery-widget-widget.php:114
+msgid "Instagram Image Size"
+msgstr ""
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-add-editor-button.php:180
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-helper.php:107
+msgid "No Data"
+msgstr ""
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-helper.php:111
+msgid "Provide API access token / Username"
+msgstr ""
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-helper.php:133
+msgid "No data / Invalid Username / Private Account"
+msgstr ""
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-helper.php:193
+#: ../includes/class-catch-instagram-feed-gallery-widget-shortcode.php:48
+#: ../includes/class-catch-instagram-feed-gallery-widget-widget.php:52
+msgid "View on Instagram"
+msgstr ""
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-widget.php:57
+msgid "Displays your latest Instagram feed as Gallery and Widget"
+msgstr ""
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-widget.php:90
+msgid "Username"
+msgstr ""
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-widget.php:98
+#, php-format
+msgid "Please fetch access token %1$shere%2$s"
+msgstr ""
+
+#: ../includes/class-catch-instagram-feed-gallery-widget-widget.php:108
+msgid "Number of photos"
+msgstr ""
+
+#: ../includes/ctp-tabs-removal.php:69
+msgid "Connection Error. Please try again."
+msgstr ""

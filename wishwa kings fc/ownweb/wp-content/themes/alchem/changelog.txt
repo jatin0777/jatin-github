@@ -1,0 +1,166 @@
+== CHANGE LOG == 
+
+= Version 1.4.7 = 01/04/2018
+* Fix - Fixed page comments issue
+
+= Version 1.4.6 = 30/10/2017
+* Fix - Fixed color options issue
+
+= Version 1.4.5
+* Compatible with WPML & Polylang
+
+= Version 1.4.4
+* Update - Updated TGM library
+
+= Version 1.4.3  = 07/04/2017
+* Allow tags: script, iframe
+* Fix - Fixed 'Display Previous/Next Pagination' issue   
+
+= Version 1.4.2  = 21/02/2017
+* Fix - Fixed 'Display Previous/Next Pagination' issue
+
+= Version 1.4.1  = 14/12/2016
+* Fix - Fixed customize options issue
+* Fix - Fixed carousel issue of banner/testimonial/clients section
+
+= Version 1.4.0  = 14/12/2016
+* Feature - Add theme support for selective refresh for widgets.
+
+= Version 1.3.4  = 27/10/2016
+* Feature - Compatible with Woocommerce
+
+= Version 1.3.3  = 14/10/2016
+* Add - Added Options Backup function
+* Fix - Fixed banner text responsive issue
+
+= Version 1.3.2  = 30/09/2016
+* Fix - Fixed 'Header Overlay' option issue
+
+= Version 1.3.1  = 21/09/2016
+* Add - Added 'Full Width Header' option
+* Add - Added 'Overlay Header Text Color' option
+* Add - Added 'Page Tilte-bar Text Color' option
+* Add - Added 'Alchem Custom Menu' widget
+* Add - Added slider pagination
+* Fix - Fixed customize layout issue in Firefox
+
+= Version 1.3.0  = 29/07/2016
+* Add - Added "Color" option for "Banner" Section
+* Add - Added "Icon Color" option for "Service" Section
+* Add - Added lightbox for "Gallery" Section
+* Add - Added "Category" option for "Latest news" section
+* Fix - Fixed header overlay issue
+
+= Version 1.2.9  = 21/07/2016
+* Add - Added section 'Background Parallax Image' option
+
+= Version 1.2.8  = 08/07/2016
+* Fix - Fixed Blog Archive sidebar issue
+* Fix - Fixed search page sidebar issue
+* Fix - Fixed 404 page sidebar issue
+
+= Version 1.2.7  = 07/07/2016
+* Fix - Fixed missing Custom CSS issue
+* Fix - Fixed page sidebar options issue
+
+= Version 1.2.6  = 05/07/2016
+* Add - Added banner video background function
+* Add - Added 404 page sidebar options
+* Add - Added home page > partner section tooltip
+* Fix - Fixed Site Width option issue
+
+= Version 1.2.5  = 24/06/2016
+* Removed Sidebar > Pages options
+* Removed Blog > Blog Single Post Page Options > Blog Post Sidebar Position option
+* Removed Blog > General Blog Options > Blog Archive/Author/Category Sidebar option
+* Fix - Fixed sidebar options issue
+* Fix - Fixed footer social icons box color option issue
+
+= Version 1.2.4  = 20/06/2016
+* Add - Added Logo Position option
+* Add - Added Blog List Style option
+* Add - Added Page Background Meta Box option ( Display Title )
+* Add - Added Page Background Meta Box option ( Background Image )
+* Add - Added Page Background Meta Box option ( Background Repeat )
+* Add - Added Title Bar Background Meta Box option ( Title Bar Background Image )
+* Add - Added Title Bar Background Meta Box option ( Title Bar Background Repeat )
+* Add - Added Post Meta Box option( Display Meta Data )
+* Add - Added Post Meta Box option( Display Share Icons )
+* Add - Added Post Meta Box option( Display Author Info )
+* Add - Added Post Meta Box option( Display Related Posts )
+* Fix - Fixed archive page title issue
+* Fix - Fixed slider Autoplay option issue
+* Fix - Fixed slider Slideshow Speed option issue
+
+= Version 1.2.3  = 24/05/2016
+* Fix - Fixed footer social icons box color issue
+* Fix - Fixed parallax backgrounds issue
+* Fix - Fixed footer widget area posts list background issue
+* Fix - Fixed Tooltip Position for Social Icons issue
+
+= Version 1.2.2  = 18/05/2016
+* Section slogan button
+
+= Version 1.2.1  = 08/04/2016
+* Fix - Fixed Display Title Bar page option issue
+* Fix - Fixed page Slider Banner issue
+
+= Version 1.2.0  = 31/03/2016
+* Fix - Fixed single slide issue of 'section banner'
+
+= Version 1.1.9  = 28/03/2016
+* Add - Added 2 home page styles
+* Add - Added home page animation on/off option
+* Fix - Fixed waypoints issue
+* Fix - Fixed blog timeline issue
+* Fix - Fixed waypoints issue
+* Removed home page animation on mobile
+
+= Version 1.1.8  = 16/03/2016
+* Fixed full height of homepage banner in Firefox.
+
+= Version 1.1.7  = 03/03/2016
+* Added: home page slider ( Section - Banner)
+* Added: home page section animation
+
+= Version 1.1.6 = 01/03/2016
+* Fix - Fixed home page section id option issue ( Section - Features )
+
+= Version 1.1.5 = 26/02/2016
+* Added 'Google Fonts' option
+* Removed duplicate theme option
+
+= Version 1.1.4 = 14/02/2016
+* Fixed Social Icon Link options issue ( Section - Our Team )
+
+= Version 1.1.3 =
+* Fixed 'Copyright Background Color' options issue
+* Fixed 'Nav Menu' metabox option issue
+* Added 'Styling' options
+* Added 'Main Menu Dropdown Width' option
+
+= Version 1.1.1 =
+* Added header style 2
+
+= Version 1.1.0 =
+* Fixed theme option issue: Blog\Blog Single post page option\Disable featured iamage
+* Fixed copyright content HTML issue
+
+= Version 1.0.9 =
+* Added blog options
+
+= Version 1.0.8 =
+* Fixed home page sections content HTML issue
+
+= Version 1.0.2 =
+* Transfer data from theme options to customizer
+* Fixed blog template sidebar issue
+* Fixed blog pagingnav issue
+* Fixed blog Excerpt Length issue
+
+= Version 1.0.1 =
+* Added bbpress style
+* Fixed header padding issue
+* Fixed page right sidebar issue
+* Fixed top bar info color issue
+* Fixed sticky header background color issue
