@@ -1,0 +1,2775 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rock Star\n"
+"Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
+"POT-Creation-Date: 2019-02-15 21:50+0545\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Catch Themes <info@catchthemes.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_attr_e;esc_attr__;"
+"_nx:4c,1,2;esc_html__;esc_attr_x:1,2c;_x;esc_html_e;_nx_noop:4c,1,2;"
+"_n_noop:1,2;__ngettext_noop:1,2;_c,_nc,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! cette page n'a pas été trouvé."
+
+#: ../404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Il ressemble à rien n'a été trouvé à cet endroit. Peut-être essayer un des "
+"liens ci-dessous ou une recherche?"
+
+#: ../comments.php:30
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Une réponse à &ldquo;%s&rdquo;"
+
+#: ../comments.php:35
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Répondre à &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Réponses à &ldquo;%2$s&rdquo;"
+
+#: ../comments.php:50 ../comments.php:75
+msgid "Comment navigation"
+msgstr "Commentaire navigation"
+
+#: ../comments.php:51 ../comments.php:76
+msgid "&larr; Older Comments"
+msgstr "& Larr; Commentaires plus anciens"
+
+#: ../comments.php:52 ../comments.php:77
+msgid "Newer Comments &rarr;"
+msgstr "Commentaire Récent &rarr;"
+
+#: ../comments.php:87
+msgid "Comments are closed."
+msgstr "Commentaire fermé."
+
+#: ../content-none.php:15
+msgid "Nothing Found"
+msgstr "Rien n'a été trouvé"
+
+#: ../content-none.php:21 ../no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier article? <a href=\"%1$s\">Commencer ici</a>."
+
+#: ../content-none.php:25 ../no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais votre recherche n'a pas été touver. Merci d’essayer avec d' "
+"autre mots de recherche."
+
+#: ../content-none.php:30 ../no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il me semble que vous ne trouvez pas ce que vous cherchez. Peut être que "
+"nous pouvons vous aider."
+
+#: ../content-page.php:29 ../content-single.php:30 ../content.php:50
+msgid "Pages:"
+msgstr "Pages:"
+
+#: ../content-page.php:37 ../inc/core.php:669 ../inc/core.php:688
+#: ../inc/core.php:814
+msgid "Edit"
+msgstr "Editer"
+
+#: ../content.php:27
+msgid "Featured"
+msgstr "Sélectioné"
+
+#: ../inc/breadcrumb.php:44
+msgid "Home"
+msgstr "Accueil"
+
+#: ../inc/breadcrumb.php:45
+#, php-format
+msgid "%1$s Archive for %2$s"
+msgstr "%1$s Archives pour %2$s"
+
+#: ../inc/breadcrumb.php:46
+#, php-format
+msgid "%1$sSearch results for: %2$s"
+msgstr "%1$sRésultats de recherche pour: %2$s"
+
+#: ../inc/breadcrumb.php:47
+#, php-format
+msgid "%1$sPosts tagged %2$s"
+msgstr "%1$smessages  marqués %2$s"
+
+#: ../inc/breadcrumb.php:48
+#, php-format
+msgid "%1$sView all posts by %2$s"
+msgstr "%1$sVoir tous les messages de %2$s"
+
+#: ../inc/breadcrumb.php:49
+msgid "Error 404"
+msgstr "Erreur 404"
+
+#: ../inc/breadcrumb.php:210
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: ../inc/core.php:107 ../inc/menus.php:21
+msgid "Primary Menu"
+msgstr "Premier menu"
+
+#: ../inc/core.php:293
+msgid "expand child menu"
+msgstr "développer menu enfant"
+
+#: ../inc/core.php:294
+msgid "collapse child menu"
+msgstr "fermer le menu enfant"
+
+#: ../inc/core.php:311
+msgctxt "Courgette font: on or off"
+msgid "on"
+msgstr "ouvert"
+
+#: ../inc/core.php:627
+msgid "Post navigation"
+msgstr "Navigation article"
+
+#: ../inc/core.php:638
+msgid "Previous page"
+msgstr "Article précédent"
+
+#: ../inc/core.php:639
+msgid "Next page"
+msgstr "Article suivant"
+
+#: ../inc/core.php:640 ../inc/customizer-includes/news-ticker.php:129
+#: ../inc/default-options.php:197 ../inc/default-options.php:227
+#: ../inc/default-options.php:318
+msgid "Page"
+msgstr "Page"
+
+#: ../inc/core.php:645
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Anciens articles"
+
+#: ../inc/core.php:646
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Récents articles <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../inc/core.php:669
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../inc/core.php:679
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"citations dites\">citations dites:</span>"
+
+#: ../inc/core.php:685
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: ../inc/core.php:692
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: ../inc/core.php:795 ../inc/core.php:905
+msgctxt "Used before publish date."
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr "<span class = \"lecteur d'écran-text\"> Posté le </ span>"
+
+#: ../inc/core.php:802 ../inc/core.php:914
+msgctxt "Used before post author name."
+msgid "<span class=\"screen-reader-text\">Author</span>"
+msgstr "<span class = \"lecteur d'écran-text\"> Auteur </ span>"
+
+#: ../inc/core.php:810
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: ../inc/core.php:810
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: ../inc/core.php:810
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: ../inc/core.php:831 ../inc/core.php:839 ../inc/core.php:871
+#: ../inc/core.php:881
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: ../inc/core.php:834 ../inc/core.php:874
+msgctxt "Used before category names."
+msgid "<span class=\"screen-reader-text\">Categories</span>"
+msgstr "<span class = \"lecteur d'écran-text\"> Catégories </ span>"
+
+#: ../inc/core.php:842 ../inc/core.php:884
+msgctxt "Used before tag names."
+msgid "<span class=\"screen-reader-text\">Tags</span>"
+msgstr "<span class = \"lecteur d'écran-text\"> Balises </ span>"
+
+#: ../inc/core.php:1395
+msgid "Y"
+msgstr "Y"
+
+#: ../inc/core.php:1402
+#, fuzzy, php-format
+#| msgctxt "1: Year, 2: Site Title with home URL"
+#| msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
+msgctxt "1: Year, 2: Site Title with home URL, 3: Privacy Policy Link"
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved. %3$s"
+msgstr "Copyright &copy; %1$s %2$s. Tous Les Droits Sont Réservés."
+
+#: ../inc/core.php:1402
+msgid "by"
+msgstr "par"
+
+#: ../inc/core.php:1463
+msgid "Scroll Up"
+msgstr "Faire remonter"
+
+#: ../inc/core.php:1478
+msgid "Posted on"
+msgstr "Posté le"
+
+#: ../inc/core.php:1483
+msgid "By"
+msgstr "Par"
+
+#: ../inc/core.php:1583
+msgid "Next post:"
+msgstr "Article suivant&nbsp;:"
+
+#: ../inc/core.php:1586
+msgid "Previous post:"
+msgstr "Article précédent&nbsp;:"
+
+#: ../inc/core.php:1627 ../inc/customizer-includes/custom-controls.php:36
+msgid ""
+"Hold down the Ctrl (windows) / Command (Mac) button to select multiple "
+"options."
+msgstr ""
+"Maintenez le bouton / Commande (Mac) Ctrl (windows) pour sélectionner "
+"plusieurs options."
+
+#: ../inc/customizer-includes/custom-controls.php:24
+msgid "All Categories"
+msgstr "Toutes catégories"
+
+#: ../inc/customizer-includes/custom-controls.php:49
+msgid "Theme Instructions"
+msgstr "Instructions de thème"
+
+#: ../inc/customizer-includes/custom-controls.php:53
+msgid "Support"
+msgstr "Soutien"
+
+#: ../inc/customizer-includes/custom-controls.php:57
+msgid "Changelog"
+msgstr "Enregistrement des changements"
+
+#: ../inc/customizer-includes/customizer.php:36
+msgid "Check to move Site Title and Tagline before logo"
+msgstr "Vérifiez déplacer site Titre et Slogan avant logo"
+
+#: ../inc/customizer-includes/customizer.php:61
+msgid "Color Scheme"
+msgstr "Couleur programme"
+
+#: ../inc/customizer-includes/customizer.php:84
+msgid "Caution: Reset all settings to default"
+msgstr "Attention: Réinitialiser tous les réglages par défaut"
+
+#: ../inc/customizer-includes/customizer.php:86
+msgid "Reset all settings"
+msgstr "Réinitialiser tous les réglages"
+
+#: ../inc/customizer-includes/customizer.php:97
+msgid "Check to reset all settings to default"
+msgstr "Vérifiez réinitialiser tous les paramètres par défaut"
+
+#: ../inc/customizer-includes/customizer.php:107
+#: ../inc/customizer-includes/customizer.php:115
+msgid "Important Links"
+msgstr "Liens importants"
+
+#: ../inc/customizer-includes/customizer.php:149
+msgid "Refresh the customizer page after saving to view reset effects"
+msgstr ""
+"Merci de rafraîchir le panneau de personnalisation après l'enregistrement si "
+"l'option de réinitialisation est utilisée"
+
+#: ../inc/customizer-includes/featured-content.php:12
+#: ../inc/customizer-includes/featured-content.php:20
+msgid "Featured Content Options"
+msgstr "Options de contenu vedette"
+
+#: ../inc/customizer-includes/featured-content.php:14
+#: ../inc/featured-content.php:51
+msgid "Featured Content"
+msgstr "Contenu en vedette"
+
+#: ../inc/customizer-includes/featured-content.php:31
+msgid "Enable Featured Content on"
+msgstr "Activer le contenu vedette sur"
+
+#: ../inc/customizer-includes/featured-content.php:45
+msgid "Check to Move above Footer"
+msgstr "Vérifiez ci-dessus le déplacement du Pied"
+
+#: ../inc/customizer-includes/featured-content.php:60
+msgid "Select Content Type"
+msgstr "Sélectionner le type de contenu"
+
+#: ../inc/customizer-includes/featured-content.php:74
+#: ../inc/customizer-includes/news-ticker.php:87
+msgid "Leave field empty if you want to remove Headline"
+msgstr "Laissez le champ vide si vous souhaitez supprimer titre"
+
+#: ../inc/customizer-includes/featured-content.php:75
+msgid "Headline for Featured Content"
+msgstr "Titre pour le contenu en vedette"
+
+#: ../inc/customizer-includes/featured-content.php:90
+msgid "Leave field empty if you want to remove Sub-headline"
+msgstr "Laissez le champ vide si vous souhaitez supprimer Sous-titre"
+
+#: ../inc/customizer-includes/featured-content.php:91
+msgid "Sub-headline for Featured Content"
+msgstr "Sous-titre pour le contenu sélectionné"
+
+#: ../inc/customizer-includes/featured-content.php:107
+msgid "Select Featured Content Layout"
+msgstr "Sélectionnez la mise en page du contenu vedette"
+
+#: ../inc/customizer-includes/featured-content.php:121
+msgid ""
+"Save and refresh the page if No. of Featured Content is changed (Max no of "
+"Featured Content is 20)"
+msgstr ""
+"Enregistrer et actualiser la page si le nombre de contenu selectionné est "
+"modifié (Max pas de contenu vedette est 20)"
+
+#: ../inc/customizer-includes/featured-content.php:128
+msgid "No of Featured Content"
+msgstr "Pas de contenu vedette"
+
+#: ../inc/customizer-includes/featured-content.php:145
+msgid "Display Content"
+msgstr "Contenu de l'affichage"
+
+#: ../inc/customizer-includes/featured-content.php:160
+#: ../inc/customizer-includes/featured-slider.php:166
+msgid "Featured Page"
+msgstr "Page sélectionné"
+
+#: ../inc/customizer-includes/featured-content.php:169
+msgid "Make sure Featured Content is enabled for these options to work"
+msgstr ""
+"Assurez-vous que le contenu en vedette est activée pour ces options de "
+"travail"
+
+#: ../inc/customizer-includes/featured-content.php:171
+msgid "Featured Content Background Settings"
+msgstr "Contenu en vedette paramètres d'arrière-plan"
+
+#: ../inc/customizer-includes/featured-content.php:181
+msgid "Select/Add Background Image"
+msgstr "Sélectionner / Ajouter l'image de fond"
+
+#: ../inc/customizer-includes/featured-content.php:195
+msgid "Display Position"
+msgstr "Position d'affichage"
+
+#: ../inc/customizer-includes/featured-content.php:209
+msgid "Repeat"
+msgstr "Répéter"
+
+#: ../inc/customizer-includes/featured-content.php:223
+msgid "Attachment"
+msgstr "Attachement"
+
+#: ../inc/customizer-includes/featured-slider.php:12
+msgid "Featured Slider"
+msgstr "Curseur affiché"
+
+#: ../inc/customizer-includes/featured-slider.php:23
+msgid "Enable Slider on"
+msgstr "Activer curseur sur"
+
+#: ../inc/customizer-includes/featured-slider.php:39
+#: ../inc/customizer-includes/news-ticker.php:55
+msgid "Transition Effect"
+msgstr "Effet de transition"
+
+#: ../inc/customizer-includes/featured-slider.php:55
+#: ../inc/customizer-includes/featured-slider.php:74
+msgid "seconds(s)"
+msgstr "seconde (s)"
+
+#: ../inc/customizer-includes/featured-slider.php:59
+msgid "Transition Delay"
+msgstr "Retard de transition"
+
+#: ../inc/customizer-includes/featured-slider.php:78
+msgid "Transition Length"
+msgstr "Transition Longueur"
+
+#: ../inc/customizer-includes/featured-slider.php:94
+msgid "Image Loader"
+msgstr "Chargeur d'image"
+
+#: ../inc/customizer-includes/featured-slider.php:110
+msgid "Enable Social Icons in Featured Slider"
+msgstr "Activer icônes sociales dans Curseur en vedette"
+
+#: ../inc/customizer-includes/featured-slider.php:126
+msgid "Select Slider Type"
+msgstr "Sélectionnez type de curseur"
+
+#: ../inc/customizer-includes/featured-slider.php:141
+msgid ""
+"Save and refresh the page if No. of Slides is changed (Max no of slides is "
+"20)"
+msgstr ""
+"Enregistrer et actualiser la page si le nombre de diapositives est modifié "
+"(Max pas de diapositives est 20)"
+
+#: ../inc/customizer-includes/featured-slider.php:148
+msgid "No of Slides"
+msgstr "Pas de diapositives"
+
+#: ../inc/customizer-includes/header-options.php:18
+msgid "Enable Featured Header Image on "
+msgstr "Activer le contenu en vedette sur "
+
+#: ../inc/customizer-includes/header-options.php:32
+msgid "Page/Post Featured Header Image Size"
+msgstr "Page / article taille image d'en tête"
+
+#: ../inc/customizer-includes/header-options.php:45
+msgid "Featured Header Image Alt/Title Tag "
+msgstr "Image d'en tête Alt / Titre balise "
+
+#: ../inc/customizer-includes/header-options.php:58
+msgid "Featured Header Image Link URL"
+msgstr "Image d'en tête lien URL"
+
+#: ../inc/customizer-includes/header-options.php:71
+msgid "Check to Open Link in New Window/Tab"
+msgstr "Vérifiez que le lien s'ouvre dans une nouvelle fenêtre / onglet"
+
+#: ../inc/customizer-includes/news-ticker.php:12
+msgid "News Ticker"
+msgstr "Nouveau Ticket"
+
+#: ../inc/customizer-includes/news-ticker.php:23
+msgid "Enable News Ticker on"
+msgstr "Activer Nouveau Ticket sur"
+
+#: ../inc/customizer-includes/news-ticker.php:39
+msgid "News Ticker Position"
+msgstr "Nouvelle position du Ticker"
+
+#: ../inc/customizer-includes/news-ticker.php:72
+msgid "Select Ticker Type"
+msgstr "Sélectionner le type Ticket"
+
+#: ../inc/customizer-includes/news-ticker.php:88
+msgid "News Ticker Label"
+msgstr "Nouvelle étiquette de Ticket"
+
+#: ../inc/customizer-includes/news-ticker.php:104
+msgid ""
+"Save and refresh the page if No. of News Ticker is changed (Max no of News "
+"Ticker is 20)"
+msgstr ""
+"Enregistrer et rafraîchir la page si le nombre de Nouveaux Tickets est "
+"changé (Maximum de Nouveaux Tickets 20)"
+
+#: ../inc/customizer-includes/news-ticker.php:111
+msgid "No of News Ticker"
+msgstr "Aucun nouveau Ticket"
+
+#: ../inc/customizer-includes/social-icons.php:12
+msgid "Social Links"
+msgstr "Liens sociaux"
+
+#: ../inc/customizer-includes/social-icons.php:25
+msgid ""
+"Skype link can be of formats:<br>callto://+{number}<br> skype:{username}?"
+"{action}. More Information in readme file"
+msgstr ""
+"Skype link can be of formats:<br>callto://+{number}<br> skype:{username}?"
+"{action}. More Information in readme file"
+
+#: ../inc/customizer-includes/theme-options.php:11
+msgid "Basic theme Options"
+msgstr "Options thème de base"
+
+#: ../inc/customizer-includes/theme-options.php:14
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: ../inc/customizer-includes/theme-options.php:19
+msgid ""
+"Breadcrumbs are a great way of letting your visitors find out where they are "
+"on your site with just a glance. You can enable/disable them on homepage and "
+"entire site."
+msgstr ""
+"Les fils d'ariene sont un excellent moyen pour vos visiteurs de trouver où "
+"ils sont sur votre site avec un simple coup d'œil. Vous pouvez les activer / "
+"les désactiver sur la page d'accueil et de tout le site."
+
+#: ../inc/customizer-includes/theme-options.php:21
+msgid "Breadcrumb Options"
+msgstr "Options de fil d'ariane"
+
+#: ../inc/customizer-includes/theme-options.php:32
+msgid "Check to enable Breadcrumb"
+msgstr "Cocher pour activer fil d'Ariane"
+
+#: ../inc/customizer-includes/theme-options.php:45
+msgid "Check to enable Breadcrumb on Homepage"
+msgstr "Cocher pour activer le fil d'ariane sur la page d'accueil"
+
+#: ../inc/customizer-includes/theme-options.php:61
+msgid "Separator between Breadcrumbs"
+msgstr "Séparation entre les fil d'ariane"
+
+#: ../inc/customizer-includes/theme-options.php:75
+msgid "Custom/Inline CSS"
+msgstr "Personnalisé / ine CSS"
+
+#: ../inc/customizer-includes/theme-options.php:78
+msgid "Custom CSS Options"
+msgstr "Options CSS personnalisées"
+
+#: ../inc/customizer-includes/theme-options.php:88
+msgid "Enter Custom CSS"
+msgstr "Entrez CSS personnalisé"
+
+#: ../inc/customizer-includes/theme-options.php:101
+msgid "Excerpt Options"
+msgstr "Extrait d'option"
+
+#: ../inc/customizer-includes/theme-options.php:111
+msgid "Excerpt length. Default is 30 words"
+msgstr "Extrait longueur. Par défaut est 30 mots"
+
+#: ../inc/customizer-includes/theme-options.php:118
+msgid "Excerpt Length (words)"
+msgstr "Extrait Longueur (mots)"
+
+#: ../inc/customizer-includes/theme-options.php:132
+msgid "Read More Text"
+msgstr "En lire plus"
+
+#: ../inc/customizer-includes/theme-options.php:141
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page"
+msgstr ""
+"Seuls les messages qui appartiennent aux catégories sélectionnées ici seront "
+"affichés sur la page d'accueil"
+
+#: ../inc/customizer-includes/theme-options.php:143
+msgid "Homepage / Frontpage Options"
+msgstr "Page d'accueil / Options première page"
+
+#: ../inc/customizer-includes/theme-options.php:154
+msgid "Select Categories"
+msgstr "Sélectionner Catégories"
+
+#: ../inc/customizer-includes/theme-options.php:167 ../inc/metabox.php:83
+msgid "Layout Options"
+msgstr "Options de présentation"
+
+#: ../inc/customizer-includes/theme-options.php:178
+msgid "Default Layout"
+msgstr "Mise en page par défaut"
+
+#: ../inc/customizer-includes/theme-options.php:192
+msgid "Single Page/Post Layout"
+msgstr "Une seule page / mise en page Poster"
+
+#: ../inc/customizer-includes/theme-options.php:206
+msgid "Archive Content Layout"
+msgstr "Archive mise en page de contenu"
+
+#: ../inc/customizer-includes/theme-options.php:219
+msgid "Single Page/Post Image Size "
+msgstr "Une seule page / Taille de l'image "
+
+#: ../inc/customizer-includes/theme-options.php:232
+#, php-format
+msgid ""
+"<a target=\"_blank\" href=\"%1$s\">WP-PageNavi Plugin</a> is recommended for "
+"Numeric Option(But will work without it).<br/>Infinite Scroll Options "
+"requires <a target=\"_blank\" href=\"%2$s\">JetPack Plugin</a> with Infinite "
+"Scroll module Enabled."
+msgstr ""
+"<a target=\"_blank\" href=\"%1$s\">WP-PageNavi Plugin</a>Est recommandé pour "
+"l'option numérique (mais fonctionne sans elle) .<br/>Infini défilement des "
+"options (exige) <a target=\"_blank\" href=\"%2$s\">JetPack Plugin</a> avec "
+"le module de défilement infini Activé."
+
+#: ../inc/customizer-includes/theme-options.php:252
+#, php-format
+msgid ""
+"Infinite Scroll Options requires <a target=\"_blank\" href=\"%s\">JetPack "
+"Plugin</a> with Infinite Scroll module Enabled."
+msgstr ""
+"Options de défilement infini nécessite <a target=\"_blank\" href=\"%s\"> "
+"JetPack Plugin </a> avec module Infini Scroll permis."
+
+#: ../inc/customizer-includes/theme-options.php:272
+msgid "Pagination Options"
+msgstr "Options de pagination"
+
+#: ../inc/customizer-includes/theme-options.php:283
+msgid "Pagination type"
+msgstr "Type de pagination"
+
+#: ../inc/customizer-includes/theme-options.php:294
+msgid "Scrollup Options"
+msgstr "Option faire remonter"
+
+#: ../inc/customizer-includes/theme-options.php:304
+msgid "Check to disable Scroll Up"
+msgstr "Cocher pour désactiver le défilement"
+
+#: ../inc/customizer-includes/theme-options.php:313
+msgid "Change default placeholder text in Search."
+msgstr "Texte d'espace réservé changement défaut dans Recherche."
+
+#: ../inc/customizer-includes/theme-options.php:316
+msgid "Search Options"
+msgstr "Options de recherche"
+
+#: ../inc/customizer-includes/theme-options.php:326
+msgid "Default Display Text in Search"
+msgstr "Affichage par défaut texte Rechercher"
+
+#: ../inc/customizer-includes/upgrade-button/class-customize.php:76
+msgid "Rock Star Pro"
+msgstr "Rock Star Pro"
+
+#: ../inc/customizer-includes/upgrade-button/class-customize.php:77
+msgid "Upgrade Now"
+msgstr "Mettre à jour maintenant"
+
+#: ../inc/default-options.php:50 ../inc/widgets/featured-posts.php:41
+msgid "Read More ..."
+msgstr "Lire la suite . . ."
+
+#: ../inc/default-options.php:59
+msgid "Search..."
+msgstr "Recherche…"
+
+#: ../inc/default-options.php:114 ../inc/default-options.php:557
+msgid "Primary Sidebar, Content"
+msgstr "Première barre latéral, contenu"
+
+#: ../inc/default-options.php:115 ../inc/default-options.php:562
+msgid "Content, Primary Sidebar"
+msgstr "Contenu, première barre latérale"
+
+#: ../inc/default-options.php:116 ../inc/default-options.php:567
+msgid "No Sidebar ( Full Width )"
+msgstr "Pas de barre latérale (largeur totale)"
+
+#: ../inc/default-options.php:129
+msgid "Excerpt Image Top"
+msgstr "Haut de l'image"
+
+#: ../inc/default-options.php:130
+msgid "Show Full Content (No Featured Image)"
+msgstr "Afficher le contenu complet (pas de description photo)"
+
+#: ../inc/default-options.php:144 ../inc/default-options.php:180
+msgid "Homepage / Frontpage"
+msgstr "Page d'accueil / Première page"
+
+#: ../inc/default-options.php:145
+msgid "Excluding Homepage"
+msgstr "Hors la page d'accueil"
+
+#: ../inc/default-options.php:146
+msgid "Excluding Homepage, Page/Post Featured Image"
+msgstr "Hors accueil, la page / Affiche le descriptive des photos"
+
+#: ../inc/default-options.php:147 ../inc/default-options.php:181
+msgid "Entire Site"
+msgstr "Tout le site"
+
+#: ../inc/default-options.php:148
+msgid "Entire Site, Page/Post Featured Image"
+msgstr "Tout le site, la page / Affiche le descriptif des photos"
+
+#: ../inc/default-options.php:149
+msgid "Pages and Posts"
+msgstr "Pages et messages"
+
+#: ../inc/default-options.php:150 ../inc/default-options.php:182
+#: ../inc/default-options.php:391
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: ../inc/default-options.php:164 ../inc/default-options.php:620
+msgid "Full Image"
+msgstr "Pleine image"
+
+#: ../inc/default-options.php:165
+msgid "Large Image"
+msgstr "Grande image"
+
+#: ../inc/default-options.php:166 ../inc/default-options.php:625
+msgid "Slider Image"
+msgstr "Curseur de l'image"
+
+#: ../inc/default-options.php:196 ../inc/default-options.php:226
+#: ../inc/default-options.php:317
+msgid "Demo"
+msgstr "Démo"
+
+#: ../inc/default-options.php:211
+msgid "Below Slider / Header Image"
+msgstr "Sous le curseur / Image en-tête"
+
+#: ../inc/default-options.php:212
+msgid "Above Content"
+msgstr "Au-dessus du contenu"
+
+#: ../inc/default-options.php:241
+msgid "1 column"
+msgstr "1 colonnes"
+
+#: ../inc/default-options.php:242
+msgid "2 columns"
+msgstr "2 colonnes"
+
+#: ../inc/default-options.php:243
+msgid "3 columns"
+msgstr "3 colonnes"
+
+#: ../inc/default-options.php:244
+msgid "4 columns"
+msgstr "4 colonnes"
+
+#: ../inc/default-options.php:245
+msgid "5 columns"
+msgstr "5 colonnes"
+
+#: ../inc/default-options.php:259 ../inc/widgets/featured-posts.php:134
+msgid "Show Excerpt"
+msgstr "Montrer le résumé"
+
+#: ../inc/default-options.php:260
+msgid "Show Full Content"
+msgstr "Afficher le contenu complet"
+
+#: ../inc/default-options.php:261
+msgid "Hide Content"
+msgstr "Masquer le contenu"
+
+#: ../inc/default-options.php:275 ../inc/widgets/featured-posts.php:88
+msgid "Top"
+msgstr "Haut"
+
+#: ../inc/default-options.php:276
+msgid "Bottom"
+msgstr "Bas"
+
+#: ../inc/default-options.php:289
+msgid "No repeat"
+msgstr "Pas de répétition"
+
+#: ../inc/default-options.php:290
+msgid "Tile"
+msgstr "Titre"
+
+#: ../inc/default-options.php:303
+msgid "Scroll"
+msgstr "Glisser (rouler)"
+
+#: ../inc/default-options.php:304
+msgid "Fixed"
+msgstr "Fixé"
+
+#: ../inc/default-options.php:332
+msgid "Fade"
+msgstr "Fondu"
+
+#: ../inc/default-options.php:333
+msgid "Fade Out"
+msgstr "Disparaître"
+
+#: ../inc/default-options.php:334
+msgid "None"
+msgstr "Aucun"
+
+#: ../inc/default-options.php:335
+msgid "Scroll Horizontal"
+msgstr "Défilement horizontal"
+
+#: ../inc/default-options.php:336
+msgid "Scroll Vertical"
+msgstr "Défilement Vertical"
+
+#: ../inc/default-options.php:337
+msgid "Flip Horizontal"
+msgstr "Retourner horizontalement"
+
+#: ../inc/default-options.php:338
+msgid "Flip Vertical"
+msgstr "Symétrie axe vertical"
+
+#: ../inc/default-options.php:339
+msgid "Tile Slide"
+msgstr "Titre diapositive"
+
+#: ../inc/default-options.php:340
+msgid "Tile Blind"
+msgstr "Titre aveugle"
+
+#: ../inc/default-options.php:341
+msgid "Shuffle"
+msgstr "Shuffle"
+
+#: ../inc/default-options.php:354
+msgid "True"
+msgstr "Vrai"
+
+#: ../inc/default-options.php:355
+msgid "Wait"
+msgstr "Attendez"
+
+#: ../inc/default-options.php:356
+msgid "False"
+msgstr "Faux"
+
+#: ../inc/default-options.php:370
+msgid "Default(Older Posts/Newer Posts)"
+msgstr "Par défaut (messages âgées / plus récents messages)"
+
+#: ../inc/default-options.php:371
+msgid "Numeric"
+msgstr "Numérique"
+
+#: ../inc/default-options.php:372
+msgid "Infinite Scroll (Click)"
+msgstr "Infini Scroll (Cliquez)"
+
+#: ../inc/default-options.php:373
+msgid "Infinite Scroll (Scroll)"
+msgstr "Infini Scroll (défilement)"
+
+#: ../inc/default-options.php:387 ../inc/widgets/instagram.php:79
+msgid "Large"
+msgstr "Large"
+
+#: ../inc/default-options.php:388
+msgid "Full size"
+msgstr "Taille réelle"
+
+#: ../inc/default-options.php:389
+msgid "Slider Image Size"
+msgstr "Taille de l'image glisser"
+
+#: ../inc/default-options.php:390
+msgid "Featured Image Size"
+msgstr "Taille de l'image en vedette"
+
+#: ../inc/default-options.php:406
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../inc/default-options.php:410
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../inc/default-options.php:414
+msgid "Googleplus"
+msgstr "Googleplus"
+
+#: ../inc/default-options.php:418 ../inc/social-icons.php:32
+#: ../inc/social-icons.php:34
+msgid "Email"
+msgstr "Email"
+
+#: ../inc/default-options.php:422
+msgid "Feed"
+msgstr "Feed"
+
+#: ../inc/default-options.php:426
+msgid "WordPress"
+msgstr "Wordpress"
+
+#: ../inc/default-options.php:430
+msgid "GitHub"
+msgstr "GitHub"
+
+#: ../inc/default-options.php:434
+msgid "LinkedIn"
+msgstr "Linkedln"
+
+#: ../inc/default-options.php:438
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../inc/default-options.php:442
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../inc/default-options.php:446
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../inc/default-options.php:450
+msgid "YouTube"
+msgstr "Youtube"
+
+#: ../inc/default-options.php:454
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ../inc/default-options.php:458 ../inc/widgets/instagram.php:26
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../inc/default-options.php:462
+msgid "PollDaddy"
+msgstr "PollDaddy"
+
+#: ../inc/default-options.php:466
+msgid "CodePen"
+msgstr "CodePen"
+
+#: ../inc/default-options.php:470
+msgid "Path"
+msgstr "Path"
+
+#: ../inc/default-options.php:474
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: ../inc/default-options.php:478
+msgid "Skype"
+msgstr "Skype"
+
+#: ../inc/default-options.php:482
+msgid "Digg"
+msgstr "Digg"
+
+#: ../inc/default-options.php:486
+msgid "Reddit"
+msgstr "Reddit"
+
+#: ../inc/default-options.php:490
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: ../inc/default-options.php:494
+msgid "Pocket"
+msgstr "Pocket"
+
+#: ../inc/default-options.php:498
+msgid "DropBox"
+msgstr "DropBox"
+
+#: ../inc/default-options.php:502
+msgid "Spotify"
+msgstr "Spotify"
+
+#: ../inc/default-options.php:506
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: ../inc/default-options.php:510
+msgid "Twitch"
+msgstr "Twitch"
+
+#: ../inc/default-options.php:514
+msgid "Website"
+msgstr "Site web"
+
+#: ../inc/default-options.php:518
+msgid "Phone"
+msgstr "Tél"
+
+#: ../inc/default-options.php:522
+msgid "Handset"
+msgstr "Handset"
+
+#: ../inc/default-options.php:526
+msgid "Cart"
+msgstr "Panier"
+
+#: ../inc/default-options.php:530
+msgid "Cloud"
+msgstr "Cloud"
+
+#: ../inc/default-options.php:534 ../inc/widgets/tours.php:224
+msgid "Link"
+msgstr "Lien"
+
+#: ../inc/default-options.php:552 ../inc/default-options.php:583
+#: ../inc/default-options.php:610 ../inc/widgets/tag-cloud.php:76
+msgid "Default"
+msgstr "Par défaut"
+
+#: ../inc/default-options.php:588
+msgid "Enable"
+msgstr "Permettre"
+
+#: ../inc/default-options.php:593
+msgid "Disable"
+msgstr "Désactiver"
+
+#: ../inc/default-options.php:615
+msgid "Featured Image"
+msgstr "Image séléctionnée"
+
+#: ../inc/default-options.php:630
+msgid "Disable Image"
+msgstr "Désactiver image"
+
+#: ../inc/default-options.php:643
+msgid "Light"
+msgstr "Lumière"
+
+#: ../inc/default-options.php:644
+msgid "Dark"
+msgstr "Sombre"
+
+#: ../inc/featured-content.php:52
+msgid ""
+"Here you can showcase the x number of Featured Content. You can edit this "
+"Headline, Subheadline and Feaured Content from \"Appearance -> Customize -> "
+"Featured Content Options\"."
+msgstr ""
+"Ici vous pouvez mettre en valeur le nombre x de contenu vedette. Vous pouvez "
+"modifier ce titre, sous titre et contenu vedette de «Apparence -> "
+"Personnaliser -> Options de contenu vedette\"."
+
+#: ../inc/featured-content.php:261 ../inc/featured-slider.php:186
+#: ../inc/featured-slider.php:272 ../inc/featured-slider.php:345
+msgid "Permalink to: "
+msgstr "Lien permanent vers "
+
+#: ../inc/featured-slider.php:82
+msgid "Previous Slide"
+msgstr "Glisser précédent"
+
+#: ../inc/featured-slider.php:83
+msgid "Next Slide"
+msgstr "Glisser suivant"
+
+#: ../inc/menus.php:18
+msgid "Menu"
+msgstr "Menu"
+
+#: ../inc/metabox.php:100
+msgid "Header Featured Image Options"
+msgstr "Option d'image de tête"
+
+#: ../inc/metabox.php:117
+#, fuzzy
+#| msgid "Single Page/Post Image Layout "
+msgid "Single Page/Post Image Layout"
+msgstr "Mise en page de la page unique / image "
+
+#: ../inc/metabox.php:180
+msgid "Rock Star Options"
+msgstr "Rock Star Options"
+
+#: ../inc/news-ticker.php:43
+msgid "The Latest News"
+msgstr "Les dernières nouvelles"
+
+#: ../inc/structure.php:73
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: ../inc/widgets/about.php:40
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: ../inc/widgets/about.php:45
+msgid "Use this widget to add About Information"
+msgstr "Utilisez ce widget pour ajouter à propos de l'information"
+
+#: ../inc/widgets/about.php:54
+msgid "CT: About"
+msgstr "CT: A propos de"
+
+#: ../inc/widgets/about.php:69 ../inc/widgets/featured-posts.php:69
+#: ../inc/widgets/instagram.php:58 ../inc/widgets/tag-cloud.php:62
+#: ../inc/widgets/tours.php:65 ../inc/widgets/tours.php:103
+#: ../inc/widgets/video-embed.php:66
+msgid "Title"
+msgstr "Titre"
+
+#: ../inc/widgets/about.php:74
+msgid "Image Title:"
+msgstr "Image titre:"
+
+#: ../inc/widgets/about.php:79
+msgid "Image:"
+msgstr "Image:"
+
+#: ../inc/widgets/about.php:82 ../inc/widgets/background-image.php:66
+#: ../inc/widgets/featured-posts.php:149 ../inc/widgets/instagram.php:116
+#: ../inc/widgets/tours.php:80 ../inc/widgets/video-embed.php:79
+msgid "Upload"
+msgstr "Télécharger"
+
+#: ../inc/widgets/about.php:86
+msgid "Image Link:"
+msgstr "Image Lien:"
+
+#: ../inc/widgets/about.php:92 ../inc/widgets/about.php:117
+#: ../inc/widgets/instagram.php:121
+msgid "Check to Open Link in new Tab/Window"
+msgstr "Vérifiez pour ouvrir le lien dans un nouvel onglet/Fenêtre"
+
+#: ../inc/widgets/about.php:96
+msgid "Image Alt text:"
+msgstr "Texte alternatif de l’image :"
+
+#: ../inc/widgets/about.php:101
+msgid "About Text"
+msgstr "À propos du texte"
+
+#: ../inc/widgets/about.php:106
+msgid "More Link:"
+msgstr "Plus de liens:"
+
+#: ../inc/widgets/about.php:111
+msgid "More Text:"
+msgstr "Plus de texte:"
+
+#: ../inc/widgets/background-image.php:39
+msgid "Use this widget to add Background Image"
+msgstr "Utilisez ce widget pour ajouter une image de fond"
+
+#: ../inc/widgets/background-image.php:48
+msgid "CT: Background Image"
+msgstr "CT: image de fond"
+
+#: ../inc/widgets/background-image.php:63
+msgid "Image Url:"
+msgstr "Image Url:"
+
+#: ../inc/widgets/background-image.php:69
+msgid "Height (px):"
+msgstr "Hauteur (px):"
+
+#: ../inc/widgets/background-image.php:74
+msgid "Padding (px):"
+msgstr "Remplissage (px):"
+
+#: ../inc/widgets/featured-posts.php:46
+msgid "Displays featured posts with thumbnails"
+msgstr "Messages affichés avec des vignettes"
+
+#: ../inc/widgets/featured-posts.php:55
+msgid "CT: Featured Posts"
+msgstr "CT: Postes en vedette"
+
+#: ../inc/widgets/featured-posts.php:74
+msgid "No. of Posts"
+msgstr "No. de messages"
+
+#: ../inc/widgets/featured-posts.php:80
+msgid "Check to Disable Image"
+msgstr "Vérifier de désactiver l'image"
+
+#: ../inc/widgets/featured-posts.php:84
+msgid "Image Alignment"
+msgstr "Alignement de l’image"
+
+#: ../inc/widgets/featured-posts.php:89
+msgid "Left"
+msgstr "Gauche"
+
+#: ../inc/widgets/featured-posts.php:90
+msgid "Right"
+msgstr "Droite"
+
+#: ../inc/widgets/featured-posts.php:91
+msgid "Center"
+msgstr "Centre"
+
+#: ../inc/widgets/featured-posts.php:102
+msgid "Image Size"
+msgstr "Taille de l'image"
+
+#: ../inc/widgets/featured-posts.php:115
+msgid "Check to Disable Title"
+msgstr "Vérifier de désactiver le titre"
+
+#: ../inc/widgets/featured-posts.php:119
+msgid "Post Meta Info"
+msgstr "Meta info d'article"
+
+#: ../inc/widgets/featured-posts.php:121
+msgid "Check to Hide Category"
+msgstr "Cochez pour masquer la catégorie"
+
+#: ../inc/widgets/featured-posts.php:123
+msgid "Check to Hide Tags"
+msgstr "Cochez pour masquer les tags"
+
+#: ../inc/widgets/featured-posts.php:125
+msgid "Check to Hide Posted On Date"
+msgstr "Cochez pour masquer la date"
+
+#: ../inc/widgets/featured-posts.php:127
+msgid "Check Hide to Author"
+msgstr "Cochez pour masquer l'auteur"
+
+#: ../inc/widgets/featured-posts.php:131
+msgid "Content Type"
+msgstr "Type de contenu"
+
+#: ../inc/widgets/featured-posts.php:133
+msgid "Show Content"
+msgstr "Montrer le contenu"
+
+#: ../inc/widgets/featured-posts.php:135
+msgid "Show Content Limit"
+msgstr "Afficher la limite de contenu"
+
+#: ../inc/widgets/featured-posts.php:136
+msgid "No Content"
+msgstr "Pas de contenu"
+
+#: ../inc/widgets/featured-posts.php:139
+msgid "Limit content to"
+msgstr "Limiter le contenu à"
+
+#: ../inc/widgets/featured-posts.php:141
+msgid "characters"
+msgstr "caractéres"
+
+#: ../inc/widgets/featured-posts.php:146 ../inc/widgets/instagram.php:113
+#: ../inc/widgets/tours.php:77 ../inc/widgets/video-embed.php:76
+msgid "Background Image Url:"
+msgstr "URL d'image de fond:"
+
+#: ../inc/widgets/featured-posts.php:153
+msgid "More Text (if applicable)"
+msgstr "Plus de texte (si applicable)"
+
+#: ../inc/widgets/instagram.php:33
+msgid "View on Instagram"
+msgstr "Voir sur Instagram"
+
+#: ../inc/widgets/instagram.php:38
+msgid "Displays your latest Instagram photos"
+msgstr "Affiche vos dernières photos Instagram"
+
+#: ../inc/widgets/instagram.php:47
+msgid "CT: Instagram"
+msgstr "CT: Instagram"
+
+#: ../inc/widgets/instagram.php:63
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: ../inc/widgets/instagram.php:68
+msgid "Number of photos"
+msgstr "Nombre de photos"
+
+#: ../inc/widgets/instagram.php:73
+msgid "Instagram Image Size"
+msgstr "Taille de l'image Instagram"
+
+#: ../inc/widgets/instagram.php:77
+msgid "Thumbnail"
+msgstr "Vignette"
+
+#: ../inc/widgets/instagram.php:78
+msgid "Small"
+msgstr "Petit"
+
+#: ../inc/widgets/instagram.php:80
+msgid "Original"
+msgstr "Original"
+
+#: ../inc/widgets/instagram.php:91
+msgid "Layout"
+msgstr "Disposition"
+
+#: ../inc/widgets/instagram.php:95
+msgid "1 Column"
+msgstr "1 colonnes"
+
+#: ../inc/widgets/instagram.php:96
+msgid "2 Columns"
+msgstr "2 colonnes"
+
+#: ../inc/widgets/instagram.php:97
+msgid "3 Columns"
+msgstr "3 colonnes"
+
+#: ../inc/widgets/instagram.php:98
+msgid "4 Columns"
+msgstr "4 Columns"
+
+#: ../inc/widgets/instagram.php:99
+msgid "5 Columns"
+msgstr "5 colonnes"
+
+#: ../inc/widgets/instagram.php:100
+msgid "6 Columns"
+msgstr "6 colonnes"
+
+#: ../inc/widgets/instagram.php:101
+msgid "7 Columns"
+msgstr "7 colonnes"
+
+#: ../inc/widgets/instagram.php:102
+msgid "8 Columns"
+msgstr "8 colonnes"
+
+#: ../inc/widgets/instagram.php:125
+msgid "Link text"
+msgstr "Texte de lien"
+
+#: ../inc/widgets/instagram.php:237
+msgid "Unable to communicate with Instagram."
+msgstr "Impossible de communiquer avec Instagram."
+
+#: ../inc/widgets/instagram.php:241
+msgid "Instagram did not return a 200."
+msgstr "Instagram n'a pas renvoyé un 200."
+
+#: ../inc/widgets/instagram.php:249 ../inc/widgets/instagram.php:255
+#: ../inc/widgets/instagram.php:259
+msgid "Instagram has returned invalid data."
+msgstr "Instagram a renvoyé des données non valides."
+
+#: ../inc/widgets/instagram.php:292
+msgid "Instagram Image"
+msgstr "Image Instagram"
+
+#: ../inc/widgets/instagram.php:316
+msgid "Instagram did not return any images."
+msgstr "Instagram n'a pas renvoyé d'images."
+
+#: ../inc/widgets/social-icons.php:23
+msgid "CT: Social Icons"
+msgstr "CT: icônes sociales"
+
+#: ../inc/widgets/social-icons.php:24
+msgid "Use this widget to add Social Icons as a widget. "
+msgstr "Utilisez ce widget pour ajouter des icônes sociales comme widget.␣ "
+
+#: ../inc/widgets/social-icons.php:65
+msgid "Title (optional):"
+msgstr "Titre (optionnel):"
+
+#: ../inc/widgets/tag-cloud.php:40
+msgid "Displays Custom Tag Cloud with selected layout"
+msgstr "Afficher le nuage (Cloud) de tag personnalisé"
+
+#: ../inc/widgets/tag-cloud.php:49
+msgid "CT: Tag Cloud"
+msgstr "CT: Tag Cloud"
+
+#: ../inc/widgets/tag-cloud.php:67 ../inc/widgets/tours.php:70
+#: ../inc/widgets/video-embed.php:83
+msgid "No. of Items"
+msgstr "Nombre d'articles"
+
+#: ../inc/widgets/tag-cloud.php:72
+msgid "Skins(Theme)"
+msgstr "Skins(Thêmes)"
+
+#: ../inc/widgets/tag-cloud.php:77
+msgid "Box"
+msgstr "Boîte"
+
+#: ../inc/widgets/tag-cloud.php:78
+msgid "Rounded Corners"
+msgstr "Coins arrondis"
+
+#: ../inc/widgets/tag-cloud.php:89
+msgid "Sequence"
+msgstr "Séquence"
+
+#: ../inc/widgets/tag-cloud.php:93
+msgid "Random"
+msgstr "Au hasard"
+
+#: ../inc/widgets/tag-cloud.php:94
+msgid "Ascending"
+msgstr "Ascendant"
+
+#: ../inc/widgets/tag-cloud.php:95
+msgid "Descending"
+msgstr "Descendant"
+
+#: ../inc/widgets/tag-cloud.php:105
+msgid "Taxonomies to be used"
+msgstr "Taxonomies à utiliser"
+
+#: ../inc/widgets/tag-cloud.php:108
+msgid "Post Tags"
+msgstr "Tags du message"
+
+#: ../inc/widgets/tag-cloud.php:112
+msgid "Category"
+msgstr "Catégorie"
+
+#: ../inc/widgets/tag-cloud.php:116
+msgid "Link Category"
+msgstr "Catégorie de lien"
+
+#: ../inc/widgets/tag-cloud.php:119
+msgid "Custom Taxnomy"
+msgstr "Taxnomie personnalisée"
+
+#: ../inc/widgets/tag-cloud.php:121
+msgid "Use Custom Taxonomy Slug separated by comma(,)"
+msgstr "Utilisez Custom Taxonomy  séparé par une virgule (,)"
+
+#: ../inc/widgets/tag-cloud.php:124
+msgid "Additional Options"
+msgstr "Options additionelles"
+
+#: ../inc/widgets/tag-cloud.php:128
+msgid "Smallest"
+msgstr "Le plus petit"
+
+#: ../inc/widgets/tag-cloud.php:131
+msgid ""
+"The text size of the tag with the smallest count value (units given by unit "
+"parameter). "
+msgstr ""
+"La taille du texte de la balise avec la plus petite valeur de comptage "
+"(unités données par paramètre d'unité)  "
+
+#: ../inc/widgets/tag-cloud.php:135
+msgid "Largest"
+msgstr "Le plus grand"
+
+#: ../inc/widgets/tag-cloud.php:138
+msgid ""
+"The text size of the tag with the largest count value (units given by unit "
+"parameter). "
+msgstr ""
+"La taille du texte de la balise avec la plus grande valeur de comptage "
+"(unités données par paramètre d'unité) "
+
+#: ../inc/widgets/tag-cloud.php:142
+msgid "Unit"
+msgstr "Unit"
+
+#: ../inc/widgets/tag-cloud.php:146
+msgid "pt"
+msgstr "pt"
+
+#: ../inc/widgets/tag-cloud.php:147
+msgid "px"
+msgstr "px"
+
+#: ../inc/widgets/tag-cloud.php:148
+msgid "em"
+msgstr "em"
+
+#: ../inc/widgets/tag-cloud.php:149
+msgid "%"
+msgstr "%"
+
+#: ../inc/widgets/tag-cloud.php:158
+msgid ""
+"Unit of measure as pertains to the smallest and largest values. This can be "
+"any CSS length value."
+msgstr ""
+"Unité de mesure en rapport avec les valeurs les plus petites et les plus "
+"importantes. Ceci peut être n'importe quelle valeur de longueur CSS."
+
+#: ../inc/widgets/tours.php:41
+msgid "Use this widget to add Tours"
+msgstr "Utilisez ce widget pour ajouter Tours"
+
+#: ../inc/widgets/tours.php:50
+msgid "CT: Tours"
+msgstr "CT: Tours"
+
+#: ../inc/widgets/tours.php:73 ../inc/widgets/video-embed.php:86
+msgid ""
+"Please save the widget once No. of items is changed to reflect the changes"
+msgstr ""
+"S'il vous plaît enregistrer le widget, une fois le nombre d'éléments modifié "
+"pour tenir compte des changements"
+
+#: ../inc/widgets/tours.php:100
+#, php-format
+msgid "%1s. Tour Details"
+msgstr "% 1s. Détails de la visite"
+
+#: ../inc/widgets/tours.php:113
+msgid "Date"
+msgstr "Date"
+
+#: ../inc/widgets/tours.php:123
+msgid "Address"
+msgstr "Adresse"
+
+#: ../inc/widgets/tours.php:133
+msgid "Link 1"
+msgstr "Lien 1"
+
+#: ../inc/widgets/tours.php:143
+msgid "Link Text 1"
+msgstr "Lien text 1"
+
+#: ../inc/widgets/tours.php:153
+msgid "Link 2"
+msgstr "Lien 2"
+
+#: ../inc/widgets/tours.php:163
+msgid "Link Text 2"
+msgstr "Lien texte 2"
+
+#: ../inc/widgets/tours.php:173
+msgid "Link 3"
+msgstr "Lien 3"
+
+#: ../inc/widgets/tours.php:183
+msgid "Link Text 3"
+msgstr "Lien texte 3"
+
+#: ../inc/widgets/tours.php:193
+msgid "Link 4"
+msgstr "Lien 4"
+
+#: ../inc/widgets/tours.php:203
+msgid "Link Text 4"
+msgstr "Lien texte 4"
+
+#: ../inc/widgets/tours.php:213 ../inc/widgets/tours.php:244
+#: ../inc/widgets/video-embed.php:120
+msgid "Check to open link in new tab/window"
+msgstr "Cochez pour ouvrir le lien dans un nouvel onglet / fenêtre"
+
+#: ../inc/widgets/tours.php:234
+msgid "Link Text"
+msgstr "Lien Texte"
+
+#: ../inc/widgets/video-embed.php:42
+msgid "Use this widget to add Video Embed Codes"
+msgstr "Utilisez ce widget pour ajouter des codes d'intégration vidéo"
+
+#: ../inc/widgets/video-embed.php:51
+msgid "CT: Video Embeds"
+msgstr "CT: intégration vidéo"
+
+#: ../inc/widgets/video-embed.php:71
+msgid "Description"
+msgstr "Description"
+
+#: ../inc/widgets/video-embed.php:97
+#, php-format
+msgid "Code %1s"
+msgstr "Code %1s"
+
+#: ../inc/widgets/video-embed.php:106
+msgid "More Link Url"
+msgstr "Plus d'URL de lien"
+
+#: ../inc/widgets/video-embed.php:113
+msgid "More Link text"
+msgstr "Plus de texte de lien"
+
+#: ../inc/widgets/widgets.php:24
+msgid "Primary Sidebar"
+msgstr "Première sidebar"
+
+#: ../inc/widgets/widgets.php:30
+msgid ""
+"This is the primary sidebar if you are using a two column site layout option."
+msgstr ""
+"Il s'agit de la barre latérale principale si vous utilisez une option de "
+"mise en page du site à deux colonnes."
+
+#: ../inc/widgets/widgets.php:38
+#, php-format
+msgid "Footer Area %d"
+msgstr "Pied de page Zone% d"
+
+#: ../inc/widgets/widgets.php:44
+#, php-format
+msgid "Footer %d widget area."
+msgstr "Pied de page% d zone de widget."
+
+#: ../inc/widgets/widgets.php:51
+msgid "Before Content"
+msgstr "Avant Contenu"
+
+#: ../inc/widgets/widgets.php:57
+msgid ""
+"This is the Before Content widget area. It typically appears on the before "
+"the Content."
+msgstr ""
+"Il s'agit de la zone de widget Avant contenu. Il apparaît généralement sur "
+"le contenu, avant le contenu."
+
+#: ../inc/widgets/widgets.php:62
+msgid "After Content"
+msgstr "Après le contenu"
+
+#: ../inc/widgets/widgets.php:68
+msgid ""
+"This is the After Content widget area. It typically appears after the "
+"Content."
+msgstr ""
+"Il s'agit de la zone widget Après Content. Il apparaît généralement après le "
+"contenu."
+
+#: ../no-results.php:14
+msgid "Error 404-Page NOT Found"
+msgstr "Erreur 404-Page pas trouvée"
+
+#: ../search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultat de recherche pour: %s"
+
+#: ../searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr "Recherche pour:"
+
+#: ../searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr "Recherche"
+
+#: ../sidebar.php:68
+msgid "Primary Sidebar Widget Area"
+msgstr "Première barre latéral Zone Widget"
+
+#: ../sidebar.php:71
+msgid ""
+"This is the Primary Sidebar Widget Area if you are using a two or three "
+"column site layout option."
+msgstr ""
+"C'est la première barre latérale de zone de widgets si vous utilisez "
+"l'option deux ou trois colonnes: réaménagement du site."
+
+#: ../sidebar.php:72
+#, php-format
+msgid ""
+"By default it will load Search and Archives widgets as shown below. You can "
+"add widget to this area by visiting your <a href=\"%s\">Widgets Panel</a> "
+"which will replace default widgets."
+msgstr ""
+"Par défaut,  chargement de widget  Recherche et d' Archives comme indiqué ci-"
+"dessous. Vous pouvez ajouter un widget à cette région en visitant votre <a "
+"href=\"%s\"> Panneau Widgets </a> qui remplacera widgets par défaut."
+
+#: ../sidebar.php:87
+msgid "Search"
+msgstr "Recherche"
+
+#: ../sidebar.php:93
+msgid "Archives"
+msgstr "Archives"
+
+#~ msgctxt "1: Year, 2: Site Title with home URL"
+#~ msgid "Copyright &copy; %1$s %2$s. All Rights Reserved"
+#~ msgstr "Copyright &copy; %1$s %2$s. Tous Les Droits Sont Réservés"
+
+#~ msgid "Demo Content"
+#~ msgstr "Contenu de démonstration"
+
+#~ msgid "Page News Ticker"
+#~ msgstr "Page nouveauTicket"
+
+#~ msgid "Demo Featured Content"
+#~ msgstr "Contenu vedette démo"
+
+#~ msgid "Featured Page Content"
+#~ msgstr "Contenu vedette de la page"
+
+#~ msgid "<span class=\"screen-reader-text\">Posted on</span>"
+#~ msgstr "<span class=\"screen-reader-text\">Posté le</span>"
+
+#~ msgid "Color Options"
+#~ msgstr "Options couleurs"
+
+#~ msgid "Basic Color Options"
+#~ msgstr "Options couleur de base"
+
+#~ msgid "Primary Menu Color Options"
+#~ msgstr "Options couleurs du menu principal"
+
+#~ msgid "Secondary Menu Color Options"
+#~ msgstr "Options couleurs du menu secondaire"
+
+#~ msgid "Header Color Options"
+#~ msgstr "En-tête options de couleur"
+
+#~ msgid "Slider Color Options"
+#~ msgstr "Curseur options de couleur"
+
+#~ msgid "News Ticker Color Options"
+#~ msgstr "Nouveau ticket options de couleur"
+
+#~ msgid "Featured Content Color Options"
+#~ msgstr "Options couleur du contenu en vedette"
+
+#~ msgid "Content Color Options"
+#~ msgstr "Options de couleur du contenu"
+
+#~ msgid "Only for Primary Sidebar"
+#~ msgstr "Uniquement pour la barre latérale principale"
+
+#~ msgid "Sidebar Color Options"
+#~ msgstr "Options de couleur barre latérale"
+
+#~ msgid "Pagination Color Options"
+#~ msgstr "Pagination options de couleur"
+
+#~ msgid "Footer Color Options"
+#~ msgstr "Options de couleur pied de page"
+
+#~ msgid "Scrollup Color Options"
+#~ msgstr "Options couleurs faire remonter"
+
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#~ msgid "Extra Menu Options specific to this theme"
+#~ msgstr "Options du menu supplémentaires spécifiques à ce thème"
+
+#~ msgid "Menu Options"
+#~ msgstr "Options du menu"
+
+#~ msgid "Check to disable Primary Menu"
+#~ msgstr "Menu principal, vérifiez désactiver"
+
+#~ msgid "Featured Post"
+#~ msgstr "Messages mis en avant"
+
+#~ msgid "Featured Content #"
+#~ msgstr "Contenu en vedette #"
+
+#~ msgid "Image"
+#~ msgstr "Image"
+
+#~ msgid "Content"
+#~ msgstr "Contenu"
+
+#~ msgid "Check to exclude Slider post from Homepage posts"
+#~ msgstr "Exclure le diaporama d'articles de la page d'accueil"
+
+#~ msgid "Featured Slide #"
+#~ msgstr "Glisser en vedette #"
+
+#~ msgid "Featured Header Image Position"
+#~ msgstr "Position de l'image d'entête"
+
+#~ msgid "Post"
+#~ msgstr "Message"
+
+#~ msgid "News Ticker #"
+#~ msgstr "Nouveau Ticket #"
+
+#~ msgid "Note: Enter the url for correponding social networking website"
+#~ msgstr "Remarque: entrez l'URL du site correspondant au réseau social"
+
+#~ msgid "Social Icon Size(px)"
+#~ msgstr "Taille de l'icône sociale (px)"
+
+#~ msgid ""
+#~ "Save and refresh the page if No. of custom social icon is changed (Max "
+#~ "number of icons is 10)"
+#~ msgstr ""
+#~ "Enregistrer et rafraîchir la page si n ° de l'icône sociale personnalisée "
+#~ "est changé (nombre maximum d'icônes est 10)"
+
+#~ msgid "Custom Social Links"
+#~ msgstr "Liens sociaux"
+
+#~ msgid "Number of Custom Social Icons"
+#~ msgstr "Nombre d'icônes sociales personnalisées"
+
+#~ msgid "Custom Social Icon #"
+#~ msgstr "Icone sociale personnalisé  #"
+
+#~ msgid "Hover Image(Optional)"
+#~ msgstr "Image survolée (Facultatif)"
+
+#~ msgid ""
+#~ "Preloader image is the image that loads beforehand while the main page "
+#~ "loads"
+#~ msgstr ""
+#~ "Preloader est l'image qui charge à l'avance lors du chargement de la page"
+
+#~ msgid "Preloader Image"
+#~ msgstr "Préchargement d'image"
+
+#~ msgid "Check to enable Preloader Image"
+#~ msgstr "Cocher pour activer l'image a préchargé"
+
+#~ msgid ""
+#~ "Comments can also be disabled on a per post/page basis when creating/"
+#~ "editing posts/pages."
+#~ msgstr ""
+#~ "Les commentaires peuvent également être désactivés sur une base par "
+#~ "poste / page lors de la création / édition articles / pages."
+
+#~ msgid "Comment Options"
+#~ msgstr "Options Commentaire"
+
+#~ msgid "Comment Option"
+#~ msgstr "Option Commentaire"
+
+#~ msgid "Check to Disable Notes"
+#~ msgstr "Vérifiez désactiver les remarques"
+
+#~ msgid "Check to Disable Website Field"
+#~ msgstr "Vérifiez Désactiver le champ website"
+
+#~ msgid ""
+#~ "If your custom feed(s) are not handled by Feedblitz or Feedburner, do not "
+#~ "use the redirect options."
+#~ msgstr ""
+#~ "Si votre donnée (s) personnalisée (s) ne sont pas pris en charge par "
+#~ "Feedblitz ou Feedburner, ne pas utiliser les options de redirection."
+
+#~ msgid "Feed Redirect"
+#~ msgstr "Redirigé"
+
+#~ msgid "Font Family Options"
+#~ msgstr "Options de famille de polices"
+
+#~ msgid "Site Title Font Family"
+#~ msgstr "Titre du site famille de polices"
+
+#~ msgid "Default Font Family"
+#~ msgstr "Famille de  police par défaut"
+
+#~ msgid "Site Tagline Font Family"
+#~ msgstr "Famille de police"
+
+#~ msgid "Menu Font Family"
+#~ msgstr "Police du menu"
+
+#~ msgid "Content Title Font Family"
+#~ msgstr "Famille de police du titre"
+
+#~ msgid "Content Body Font Family"
+#~ msgstr "Police du corps de page"
+
+#~ msgid "Headings Tags from h1 to h6 Font Family"
+#~ msgstr "Positions balises h1 à h6 famille de polices"
+
+#~ msgid "Check to reset fonts"
+#~ msgstr "Réinitialiser Polices"
+
+#~ msgid "You can either add html or plain text"
+#~ msgstr "Vous pouvez ajouter du html ou texte brut"
+
+#~ msgid "Footer Editor Options"
+#~ msgstr "Options de l’éditeur du pied de page"
+
+#~ msgid ""
+#~ "You can add custom shortcodes, which will be automatically inserted into "
+#~ "your theme. Some shorcodes: [the-year], [site-link] and [privacy-policy-"
+#~ "link] for current year and site link respectively."
+#~ msgstr ""
+#~ "Vous pouvez ajouter des shortcodes personnalisés, qui sera "
+#~ "automatiquement insérés dans votre thème. Quelques shorcodes : [l’année] "
+#~ "et [site-link] pour l’année en cours et site lien respectivement."
+
+#~ msgid "Footer Content"
+#~ msgstr "Contenu Pied de page"
+
+#~ msgid "Check to reset Footer Content"
+#~ msgstr "Cocher pour remettre un pied de page de contenu"
+
+#~ msgid "Latest Posts Title"
+#~ msgstr "Dernier titre de messages"
+
+#~ msgid "Woocommerce Layout"
+#~ msgstr "Woocommerce mise en page"
+
+#~ msgid "Excerpt Image Top Layout"
+#~ msgstr "Extrait image haute"
+
+#~ msgid "Single Post Navigation"
+#~ msgstr "Navigation article"
+
+#~ msgid "Check to disable Single Post Navigation"
+#~ msgstr "Cocher Désactiver la navigation post unique"
+
+#~ msgid "Update Notifier"
+#~ msgstr "Mettre à jour la notification"
+
+#~ msgid "Check to disable update notifications"
+#~ msgstr "Cocher pour supprimer les notifications de mise à jou"
+
+#~ msgid "No Sidebar ( Content Width )"
+#~ msgstr "Aucune barre latérale (Largeur contenu)"
+
+#~ msgid "No Sidebar ( One Column )"
+#~ msgstr "Aucune barre, une colonne"
+
+#~ msgid "Excerpt Image Left"
+#~ msgstr "Gauche de l'image"
+
+#~ msgid "Excerpt Image Right"
+#~ msgstr "Droite de l'image"
+
+#~ msgid "Before Slider"
+#~ msgstr "Avant contenu"
+
+#~ msgid "After Slider"
+#~ msgstr "Après le contenu"
+
+#~ msgid "Post News Ticker"
+#~ msgstr "Poster Nouveau Ticket"
+
+#~ msgid "Category News Ticker"
+#~ msgstr "Catégorie nouveau Ticket"
+
+#~ msgid "Custom Text News Ticker"
+#~ msgstr "Texte personnalisé nouveau Ticket"
+
+#~ msgid "Featured Post Content"
+#~ msgstr "Contenu des articles mis en avant"
+
+#~ msgid "Featured Category Content"
+#~ msgstr "Catégorie mis en avant"
+
+#~ msgid "Featured Image Content"
+#~ msgstr "Descriptif contenu image"
+
+#~ msgid "Use WordPress Setting"
+#~ msgstr "Utiliser la configuration WordPress"
+
+#~ msgid "Disable in Pages"
+#~ msgstr "Désactiver dans les pages"
+
+#~ msgid "Disable Completely"
+#~ msgstr "Désactiver complètement"
+
+#~ msgid "Text Color"
+#~ msgstr "Couleur du texte"
+
+#~ msgid "Link Color"
+#~ msgstr "Couleur de lien"
+
+#~ msgid "Link Hover Color"
+#~ msgstr "Couleur au survol de lien"
+
+#~ msgid "Content Wrapper Background Color"
+#~ msgstr "Couleur d’arrière plan"
+
+#~ msgid "Content Background Color"
+#~ msgstr "Couleur d’arrière-plan du contenu"
+
+#~ msgid "Content Title Color"
+#~ msgstr "Couleur du titre"
+
+#~ msgid "Content Title Hover Color"
+#~ msgstr "Couleur du texte au survol"
+
+#~ msgid "Content Meta Color"
+#~ msgstr "Options de couleur du contenu"
+
+#~ msgid "Content Meta Hover Color"
+#~ msgstr "Couleur du lien de contenu lors du survol avec la souris"
+
+#~ msgid "Sticky Post Label Background Color"
+#~ msgstr "Couleur d'arrière-plan des étiquettes"
+
+#~ msgid "Sticky Post Label Text Color"
+#~ msgstr "Couleur de texte pour le label  Post-it"
+
+#~ msgid "Header Background color"
+#~ msgstr "En-tête Couleur de fond"
+
+#~ msgid "Site Title Hover Color"
+#~ msgstr "Blog - Couleur de titre au survol"
+
+#~ msgid "Tagline Color"
+#~ msgstr "Couleur de la description"
+
+#~ msgid "Sidebar Background Color"
+#~ msgstr "Couleur d'arrière-plan de la barre latérale"
+
+#~ msgid "Sidebar Widget Title Color"
+#~ msgstr "Couleur de la police du titre du widget de la barre latérale"
+
+#~ msgid "Sidebar Widget Text Color"
+#~ msgstr "Widget de la barre latérale Couleur du texte"
+
+#~ msgid "Sidebar Widget Link Color"
+#~ msgstr "Couleur du lien du widget"
+
+#~ msgid "Background Color"
+#~ msgstr "Couleur d’arrière plan"
+
+#~ msgid "Hover Background Color"
+#~ msgstr "Couleur du fond au survol"
+
+#~ msgid "Border Color"
+#~ msgstr "Couleur de bordure"
+
+#~ msgid "Hover/Active Color"
+#~ msgstr "Couleur actif/au survol"
+
+#~ msgid "Hover/Active Border Color"
+#~ msgstr "Couleur de bordure active"
+
+#~ msgid "Sidebar Area Background Color"
+#~ msgstr "Couleur de fond barre latérale"
+
+#~ msgid "Widget Text Color"
+#~ msgstr "Couleur du texte du widget"
+
+#~ msgid "Widget Background Color"
+#~ msgstr "Couleur d'arrière-plan des widgets"
+
+#~ msgid "Widget Title Color"
+#~ msgstr "Couleur du titre du widget"
+
+#~ msgid "Widget Link Color"
+#~ msgstr "Couleur du lien du widget"
+
+#~ msgid "Widget Link Hover Color"
+#~ msgstr "Couleur au survol de lien"
+
+#~ msgid "Hover Text Color"
+#~ msgstr "Couleur du texte au survol"
+
+#~ msgid "Title Color"
+#~ msgstr "Couleur du titre"
+
+#~ msgid "Title Hover Color"
+#~ msgstr "Couleur du titre en survol"
+
+#~ msgid "Label Color"
+#~ msgstr "Couleur de l'étiquette"
+
+#~ msgid "Label Border Color"
+#~ msgstr "Couleur de la bordure de l'étiquette"
+
+#~ msgid "Button Background Color"
+#~ msgstr "Couleur d’arrière plan du bouton"
+
+#~ msgid "Button Border Color"
+#~ msgstr "Couleur de la bordure du bouton"
+
+#~ msgid "Button Text Color"
+#~ msgstr "Couleur de texte du bouton"
+
+#~ msgid "Button Hover Background Color"
+#~ msgstr "Couleur de fond du bouton au survol"
+
+#~ msgid "Button Hover Border Color"
+#~ msgstr "Couleur de la bordure au survol du bouton"
+
+#~ msgid "Button Hover Text Color"
+#~ msgstr "Couleur du texte du bouton lors du survol"
+
+#~ msgid "Control Background Color"
+#~ msgstr "Contrôle couleur d’arrière-plan"
+
+#~ msgid "Control Text Color"
+#~ msgstr "Contrôle couleur du texte"
+
+#~ msgid "Control Hover Background Color"
+#~ msgstr "Couleur d’arrière-plan de contrôle sensitif"
+
+#~ msgid "Control Hover Text Color"
+#~ msgstr "Couleur de texte contrôle sensitif"
+
+#~ msgid "Pager Color"
+#~ msgstr "Pager couleur"
+
+#~ msgid "Pager Hover Color"
+#~ msgstr "Couleur de la fonction survol"
+
+#~ msgid "Background color"
+#~ msgstr "Couleur d'arrière plan"
+
+#~ msgid "Color"
+#~ msgstr "Couleur"
+
+#~ msgid "Hover Active Background Color"
+#~ msgstr "Couleur d’arrière-plan d’icône au survol/active"
+
+#~ msgid "Hover Active Text Color"
+#~ msgstr "Couleur actif/au survol"
+
+#~ msgid "Sub Menu Background Color"
+#~ msgstr "Couleur de fond  du sous-menu"
+
+#~ msgid "Sub Menu Text Color"
+#~ msgstr "Couleur de texte du sous-menu"
+
+#~ msgid "Sub Menu Hover Background Color"
+#~ msgstr "Couleur de survol de l'arrière-plan du sous-menu"
+
+#~ msgid "Sub Menu Hover Text Color"
+#~ msgstr "Sous-menu couleur texte au survol"
+
+#~ msgid "Default Sidebar"
+#~ msgstr "Barre latérale par défaut"
+
+#~ msgid "Optional Sidebar One"
+#~ msgstr "Option barre latérale 1"
+
+#~ msgid "Optional Sidebar Two"
+#~ msgstr "Option barre latérale 2"
+
+#~ msgid "Optional Sidebar three"
+#~ msgstr "Option barre latérale 3"
+
+#~ msgid "Select Sidebar"
+#~ msgstr "Sélectionnez la barre latérale"
+
+#~ msgid "Use this widget to add Code as Advertisement"
+#~ msgstr "Utilisez ce widget pour ajouter du code en tant que Publicité"
+
+#~ msgid "CT: Advertisement Codes"
+#~ msgstr "CT : Codes de publicité"
+
+#~ msgid "Check to Hide Ad on 404 page"
+#~ msgstr "Cochez pour masquer l'annonce sur la page 404"
+
+#~ msgid "Use this widget to add Image as Advertisement"
+#~ msgstr "Ce widget permet d’ajouter des images dans la publicité"
+
+#~ msgid "CT: Advertisement Images"
+#~ msgstr "CT : Publicité images"
+
+#~ msgid "Image %1s"
+#~ msgstr "Image %1s"
+
+#~ msgid "Alt text:"
+#~ msgstr "Texte de remplacement:"
+
+#~ msgid "Use this widget to add Audio"
+#~ msgstr "Ce widget permet d’ajouter de l’Audio"
+
+#~ msgid "CT: Audio"
+#~ msgstr "CT : Audio"
+
+#~ msgid "%1s. Audio Details"
+#~ msgstr "%1s. Détails audio"
+
+#~ msgid "Audio File"
+#~ msgstr "Fichier Audio"
+
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#~ msgid "Album Art"
+#~ msgstr "Pochette"
+
+#~ msgid "Singer"
+#~ msgstr "Chanteurs (Interprète)"
+
+#~ msgid "Buy Link"
+#~ msgstr "Lien d'achat"
+
+#~ msgid "Buy Link Text"
+#~ msgstr "Texte du lien d'achat"
+
+#~ msgid "Use this widget to add Breadcrumb"
+#~ msgstr "Utilisez ce widget pour ajouter fil d'ariane"
+
+#~ msgid "CT: Breadcrumb"
+#~ msgstr "CT: Fil d'ariane"
+
+#~ msgid "Check to enable Breadcrumb in Homepage"
+#~ msgstr "Cocher pour activer le fil d'ariane sur la page d'accueil"
+
+#~ msgid "Separator:"
+#~ msgstr "Séparateur :"
+
+#~ msgid "Use this widget to add Featured Embed Codes"
+#~ msgstr "Utilisez ce widget pour ajouter des codes a insérer"
+
+#~ msgid "CT: Featured Embeds"
+#~ msgstr "CT: intégration vidéo"
+
+#~ msgid "Use this widget to add Featured Image"
+#~ msgstr "Ce widget permet d’ajouter des images en vedette"
+
+#~ msgid "CT: Featured Images"
+#~ msgstr ""
+#~ "Cocher pour activer la visionneuse pour les images présentées dans seul "
+#~ "poste"
+
+#~ msgid "Title:"
+#~ msgstr "Titre:"
+
+#~ msgid "Displays featured page with thumbnails"
+#~ msgstr "Affiche la page sélectionnée avec des vignettes"
+
+#~ msgid "CT: Featured Pages"
+#~ msgstr "Pages recommandées"
+
+#~ msgid "Page ID"
+#~ msgstr "ID de la page"
+
+#~ msgid "Separate Multiple Page IDs by ,(comma)"
+#~ msgstr "Séparez plusieurs ID de Page en, (virgule)"
+
+#~ msgid "Select Posts From"
+#~ msgstr "Sélectionnez les messages à partir de"
+
+#~ msgid "Select Category"
+#~ msgstr "Choisir une catégorie"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Post ID"
+#~ msgstr "ID courrier"
+
+#~ msgid "Separate Multiple Post IDs by ,(comma)"
+#~ msgstr "Séparez ID message par, (virgule)"
+
+#~ msgid "Order By"
+#~ msgstr "Commandé par"
+
+#~ msgid "Author"
+#~ msgstr "Auteur"
+
+#~ msgid "title"
+#~ msgstr "titre"
+
+#~ msgid "Name"
+#~ msgstr "Nom"
+
+#~ msgid "Comment Count"
+#~ msgstr "Nombre de commentaires"
+
+#~ msgid "Order"
+#~ msgstr "Commande"
+
+#~ msgid "Descending (3, 2, 1)"
+#~ msgstr "Décroissant (3, 2, 1)"
+
+#~ msgid "Ascending (1, 2, 3)"
+#~ msgstr "Croissant (1, 2, 3)"
+
+#~ msgid "Use this widget to add Gallery Image"
+#~ msgstr "Ce widget permet d’ajouter des images de la Galerie"
+
+#~ msgid "CT: Gallery Images"
+#~ msgstr "Galerie d'images"
+
+#~ msgid "View Gallery"
+#~ msgstr "Voir la galerie"
+
+#~ msgid "Displays gallery page with thumbnails"
+#~ msgstr "Affiche la page sélectionnée avec des vignettes"
+
+#~ msgid "CT: Gallery Pages"
+#~ msgstr "Pages de la galerie"
+
+#~ msgid "Displays gallery posts with thumbnails"
+#~ msgstr "Galerie affiche messages avec des vignettes"
+
+#~ msgid "CT: Gallery Posts"
+#~ msgstr "CT : Galerie messages"
+
+#~ msgid "Use this widget to add News Ticker"
+#~ msgstr "Ce widget permet d’ajouter de nouveaux Tickets"
+
+#~ msgid "CT: News Ticker"
+#~ msgstr "CT: Nouveau Ticket"
+
+#~ msgid "Post ticker"
+#~ msgstr "Poster Nouveau Ticket"
+
+#~ msgid "Page ticker"
+#~ msgstr "Page de Tickets"
+
+#~ msgid "News Ticker Label:"
+#~ msgstr "Nouvelle étiquette de Ticket:"
+
+#~ msgid "Text News Ticker %1s"
+#~ msgstr "Nouveau Ticket %1s"
+
+#~ msgid "First Name"
+#~ msgstr "Prénom"
+
+#~ msgid "Last Name"
+#~ msgstr "Nom"
+
+#~ msgid "Subscribe"
+#~ msgstr "Souscrire"
+
+#~ msgid "Check your inbox or spam folder now to confirm your subscription."
+#~ msgstr ""
+#~ "Vérifiez votre boîte de réception ou vos indésirables afin de confirmer "
+#~ "votre abonnement."
+
+#~ msgid "You've successfully subscribed."
+#~ msgstr "Vous vous êtes abonné avec succès."
+
+#~ msgid "CT: Newsletter"
+#~ msgstr "CT : Newsletter"
+
+#~ msgid "Text To Show Before Form"
+#~ msgstr "Texte optionnel à montrer avant le formulaire"
+
+#~ msgid "Text To Show After Form"
+#~ msgstr "Texte à afficher après le formulaire"
+
+#~ msgid "Service"
+#~ msgstr "Service"
+
+#~ msgid "--Select One--"
+#~ msgstr "-- Choisissez --"
+
+#~ msgid "Google/Feedburner"
+#~ msgstr "Google/Feedburner"
+
+#~ msgid "MailChimp"
+#~ msgstr "MailChimp"
+
+#~ msgid "MailPoet"
+#~ msgstr "MailPoet"
+
+#~ msgid "Custom"
+#~ msgstr "Personnalisation"
+
+#~ msgid "Save widget after changing Service value to show relevant options"
+#~ msgstr ""
+#~ "Enregistrer un widget après avoir changé la valeur de service pour "
+#~ "afficher les options pertinentes"
+
+#~ msgid "MailPoet List"
+#~ msgstr "Liste de MailPoet"
+
+#~ msgid "Show Fields:"
+#~ msgstr "Afficher les champs :"
+
+#~ msgid "Text Displayed If Confirmation Needed"
+#~ msgstr "Texte affiché pour confirmation ci besoin"
+
+#~ msgid "Text Displayed If Subscribed"
+#~ msgstr "Texte affiché si abonné"
+
+#~ msgid "Google/Feedburner ID"
+#~ msgstr "Google/Feedburner ID"
+
+#~ msgid "Form Action"
+#~ msgstr "Action du formulaire"
+
+#~ msgid "Text Field Values"
+#~ msgstr "Valeurs de champ de texte"
+
+#~ msgid "First Name Field"
+#~ msgstr "Champ Prénom"
+
+#~ msgid "Last Name Field"
+#~ msgstr "Champ Nom"
+
+#~ msgid "E-Mail Field"
+#~ msgstr "Champ E-mail"
+
+#~ msgid "Hidden Fields"
+#~ msgstr "Champs cachés"
+
+#~ msgid "Not all services use hidden fields."
+#~ msgstr "Tous les services utilisent des champs cachés."
+
+#~ msgid "Open confirmation page in same window?"
+#~ msgstr "Page de confirmation ouvert dans la même fenêtre ?"
+
+#~ msgid "Text Field Labels"
+#~ msgstr "Etiquettes de champs"
+
+#~ msgid "First Name Label"
+#~ msgstr "Étiquettes prénom"
+
+#~ msgid "Last Name Label"
+#~ msgstr "Etiquette nom"
+
+#~ msgid "E-Mail Label"
+#~ msgstr "Etiquette E-Mail"
+
+#~ msgid "Subscribe Button Text"
+#~ msgstr "Bouton inscription"
+
+#~ msgid "Buy Now"
+#~ msgstr "Acheter maintenant"
+
+#~ msgid "Use this widget to add Promotion Headline"
+#~ msgstr "Utilisez ce widget pour ajouter un titre promotion"
+
+#~ msgid "CT: Promotion Headline"
+#~ msgstr "Utilisez ce widget pour ajouter un titre promotion"
+
+#~ msgid "Headline:"
+#~ msgstr "Gros titre :"
+
+#~ msgid "Sub Headline:"
+#~ msgstr "Sous-titre:"
+
+#~ msgid "Button Link:"
+#~ msgstr "Lien du bouton :"
+
+#~ msgid "Button Text:"
+#~ msgstr "Text du bouton:"
+
+#~ msgid "Use this widget to add Recent Posts"
+#~ msgstr "Ce widget permet d’ajouter les messages récents"
+
+#~ msgid "CT: Recent Posts"
+#~ msgstr "CT : Messages récents"
+
+#~ msgid "Number Of posts:"
+#~ msgstr "No. des messages:"
+
+#~ msgid "Grid Layout"
+#~ msgstr "Disposition de la grille"
+
+#~ msgid "Displays video posts/pages"
+#~ msgstr "Écrans vidéo messages/pages"
+
+#~ msgid "CT: Video Pages & Posts"
+#~ msgstr "CT : Pages vidéo & messages"
+
+#~ msgid "Select Posts/Pages From"
+#~ msgstr "Sélectionnez messages/Pages de"
+
+#~ msgid "Latest Post from all categories"
+#~ msgstr "Dernier message de toutes les catégories"
+
+#~ msgid "Latest Posts from selected categories"
+#~ msgstr "Derniers messages de catégories séléctionnées"
+
+#~ msgid "Latest Pages"
+#~ msgstr "Dernières Pages"
+
+#~ msgid "Latest Posts & Pages"
+#~ msgstr "Derniers messages & Pages"
+
+#~ msgid "Featured Post/Page IDs"
+#~ msgstr "En vedette après / Page IDs"
+
+#~ msgid "Separate Multiple Post/Page IDs by ,(comma)"
+#~ msgstr "Séparez plusieurs Post/Page ID par, (virgule)"
+
+#~ msgid "Before Posts/Pages"
+#~ msgstr "Avant les publications/Pages"
+
+#~ msgid ""
+#~ "This is the Before Posts/Page widget area. It typically appears on the "
+#~ "before Post/Page Content of the site title or logo."
+#~ msgstr ""
+#~ "Ceci est la zone widget Avant messages / Page. Il apparaît généralement "
+#~ "sur l'avant-Post / Contenu de la page du titre du site ou logo."
+
+#~ msgid "After Posts/Pages"
+#~ msgstr "Après Posts/Pages"
+
+#~ msgid ""
+#~ "This is the After Posts/Page widget area. It typically appears after Post/"
+#~ "Page Content."
+#~ msgstr ""
+#~ "Ceci est la Après les messages / Page zone widget. Il apparaît "
+#~ "généralement après le contenu post / Page."
+
+#~ msgid "404 Page Not Found Content"
+#~ msgstr "Erreur 404-Page pas trouvée"
+
+#~ msgid "Replaces the default 404 Page Not Found Content"
+#~ msgstr "Remplace la valeur par défaut 404 Page non trouvée"
+
+#~ msgid "WooCommerce Primary Sidebar"
+#~ msgstr "La barre latérale principale"
+
+#~ msgid "This is Optional Primary Sidebar for WooCommerce"
+#~ msgstr "Sidebar primaire affiché pour les modèles WooCommerce"
+
+#~ msgid "Optional Homepage Sidebar"
+#~ msgstr "Barre latérale de la page d'accueil"
+
+#~ msgid "This is Optional Sidebar for Homepage"
+#~ msgstr "Ceci est la barre latérale optionnelle pour la page d'accueil"
+
+#~ msgid "Optional Archive Sidebar"
+#~ msgstr "Archive - Barre latérale"
+
+#~ msgid "This is Optional Sidebar for Archive"
+#~ msgstr "Ceci est la barre latérale optionnelle pour les archives"
+
+#~ msgid "Optional Page Sidebar"
+#~ msgstr "Barre latérale Page en option"
+
+#~ msgid "This is Optional Sidebar for Page"
+#~ msgstr "Ceci est la barre latérale optionnelle pour la page"
+
+#~ msgid "Optional Post Sidebar"
+#~ msgstr "Barre latérale en option"
+
+#~ msgid "This is Optional Sidebar for Post"
+#~ msgstr "Cette étape est facultative"
+
+#~ msgid "This is Optional Sidebar One"
+#~ msgstr "Option barre latérale 1"
+
+#~ msgid "This is Optional Sidebar Two"
+#~ msgstr "Option barre latérale 2"
+
+#~ msgid "Optional Sidebar Three"
+#~ msgstr "Option barre latérale 3"
+
+#~ msgid "This is Optional Sidebar Three"
+#~ msgstr "Ceci est la barre latérale trois en option"
+
+#~ msgid "Page Template: Blank Page"
+#~ msgstr "Modèle de page : Page blanche"
+
+#~ msgid "This is Blank Page Widget Area"
+#~ msgstr "Il s’agit de zone de Widget Page vide"
+
+#~ msgid "Page Template: Blank Content Page"
+#~ msgstr "Modèle de page : Page de contenu vide"
+
+#~ msgid "This is Blank Content Page Widget Area with Header and Footer"
+#~ msgstr ""
+#~ "Il s’agit de zone contenu vide de Widget Page avec en-tête et pied de page"
+
+#~ msgid "WooCommerce Options"
+#~ msgstr "Options WooCommerce"
+
+#~ msgid ""
+#~ "Since these options are added via theme support, you will need to save "
+#~ "and refresh the customizer to view the full effect."
+#~ msgstr ""
+#~ "Étant donné que ces options sont ajoutées grâce à l’appui de thème, vous "
+#~ "devrez conserver et actualiser la customizer pour afficher le plein effet."
+
+#~ msgid "Check to disable Product Gallery Zoom"
+#~ msgstr "Cocher pour désactiver"
+
+#~ msgid "Check to disable Product Gallery Lightbox"
+#~ msgstr "Cocher pour désactiver"
+
+#~ msgid "Check to disable Product Gallery Slider"
+#~ msgstr "﻿Désactiver les images de diaporama"
+
+#~ msgid "<span class=\"screen-reader-text\">Author</span>"
+#~ msgstr "<span class=\"screen-reader-text\">Auteur</span>"
+
+#~ msgid "Next &rarr;"
+#~ msgstr "Suivant &rarr;"
+
+#~ msgid "&larr; Previous"
+#~ msgstr "&larr; Précédent"
+
+#~ msgid "Catch Responsive Pro is a Responsive WordPress Theme"
+#~ msgstr "Catch Responsive Premier Responsive WordPress Thème"
+
+#~ msgid ""
+#~ "This is promotion headline. You can edit this from Appearance -> "
+#~ "Customize -> Theme Options -> Promotion Headline Options"
+#~ msgstr ""
+#~ "C'est le titre de promotion. Vous pouvez l'éditer à partir Apparence -> "
+#~ "Personnaliser -> Options de thème -> Promotion options titre"
+
+#~ msgid "Featured Page Slider"
+#~ msgstr "Curseur page vadette"
+
+#~ msgid "Options for Featured Content"
+#~ msgstr "Option pour contenu vedette"
+
+#~ msgid ""
+#~ "Numeric Option requires <a target=\"_blank\" href=\"%s\">WP-PageNavi "
+#~ "Plugin</a>."
+#~ msgstr ""
+#~ "Option numérique nécessite <a target=\"_blank\" href=\"%s\"> WP-PageNavi "
+#~ "Plugin </a>. "
+
+#~ msgid "To disable the fields, simply leave them empty."
+#~ msgstr "Pour désactiver les champs, laissez simplement vide. "
+
+#~ msgid "Promotion Headline Options"
+#~ msgstr "Promotion options titre"
+
+#~ msgid "Enable Promotion Headline on"
+#~ msgstr "Activer Promotion titre sur "
+
+#~ msgid "Appropriate Words: 10"
+#~ msgstr "Mots appropriés: 10 "
+
+#~ msgid "Appropriate Words: 15"
+#~ msgstr "Mots appropriés: 15 "
+
+#~ msgid "Promotion Subheadline Text"
+#~ msgstr "Promotion sous titre texte "
+
+#~ msgid "Appropriate Words: 3"
+#~ msgstr "Mots appropriés: 3 "
+
+#~ msgid "Promotion Headline Button Text "
+#~ msgstr "Promotion Bouton global Text␣ "
+
+#~ msgid "Promotion Headline Link"
+#~ msgstr "Promotion titre Lien "
+
+#~ msgid "Logo"
+#~ msgstr "Logo"
+
+#~ msgid ""
+#~ "Caution: Reset all settings to default. Refresh the page after save to "
+#~ "view full effects."
+#~ msgstr ""
+#~ "Attention: Réinitialiser tous les réglages par défaut. Rafraîchissez la "
+#~ "page après enregistrer pour voir pleins effets."
+
+#~ msgid "Select/Add Web Clip Icon"
+#~ msgstr "Sélectionner / Ajouter Web clip "
+
+#, fuzzy
+#~ msgid "Catch Responsive Pro"
+#~ msgstr "Options de Catchresponsive "
+
+#~ msgid "Day: %s"
+#~ msgstr "Jour: %s"
+
+#~ msgid "Month: %s"
+#~ msgstr "Mois: %s"
+
+#~ msgctxt "monthly archives date format"
+#~ msgid "F Y"
+#~ msgstr "M A"
+
+#~ msgid "Year: %s"
+#~ msgstr "Année: %s"
+
+#~ msgid "Asides"
+#~ msgstr "De coté"
+
+#~ msgid "Videos"
+#~ msgstr "Vidéos"
+
+#~ msgid "Quotes"
+#~ msgstr "Citattions"
+
+#~ msgid "Statuses"
+#~ msgstr "Status"
+
+#~ msgid "Chats"
+#~ msgstr "Discutions"
+
+#~ msgid "Archive for %s"
+#~ msgstr "Archives pour %s"
+
+#~ msgid "Search results for: %s"
+#~ msgstr "Résultat pour votre recherche: %s"
+
+#~ msgid "View all posts by %s"
+#~ msgstr "Voir tout les articles de %s"
+
+#~ msgid "Featured Content Type"
+#~ msgstr "Type de contenu vedette"
+
+#~ msgid "Featured Slider Settings"
+#~ msgstr "Réglages du curseur seléctionné"
+
+#~ msgid "Featured Slider Type"
+#~ msgstr "Sélection  type de curseur"
+
+#~ msgid "Permalink to:"
+#~ msgstr "Permalien à:"
+
+#~ msgid "Catch Responsive is a Premium Responsive WordPress Theme"
+#~ msgstr "Catch Responsive Premier Responsive WordPress Thème"
+
+#~ msgid "Reviews"
+#~ msgstr "Avis"
+
+#~ msgid "Here you can showcase the x number of Featured Content."
+#~ msgstr "Ici vous can mettre en valeur le contenu de x nombre vedette"
+
+#~ msgid "Full Size"
+#~ msgstr "Pleine taille"
+
+#~ msgid "StumbleUpon"
+#~ msgstr "StumbleUpon "
+
+#~ msgid ""
+#~ "This is the primary sidebar if you are using a two or three column site "
+#~ "layout option."
+#~ msgstr ""
+#~ "Ce est la barre latérale primaire si vous utilisez une option deux ou "
+#~ "trois colonnes aménagement du site. "
+
+#~ msgid "Donate Now"
+#~ msgstr "Faire un don maintenant "
+
+#~ msgid "Review"
+#~ msgstr "Examen "
+
+#~ msgid "Remove Icon images to disable."
+#~ msgstr "Supprimer les icônes d'image pour désactiver. "
+
+#~ msgid ""
+#~ "Web Clip Icon for Apple devices. Recommended Size - Width 144px and "
+#~ "Height 144px height, which will support High Resolution Devices like iPad "
+#~ "Retina."
+#~ msgstr ""
+#~ "Web clip pour les appareils Apple. Taille recommandée - Largeur et "
+#~ "Hauteur 144px 144px de hauteur, qui soutiendra les dispositifs à haute "
+#~ "résolution comme iPad Retina."
+
+#~ msgid "Upgrade To Pro &raquo;"
+#~ msgstr "Améliorer vers version pro & raquo;"
+
+#~ msgid ""
+#~ "Some settings might be missing or disorganized in this version of "
+#~ "WordPress. So we suggest you to upgrade to version 4.0 or better."
+#~ msgstr ""
+#~ "Certains paramètres peuvent être manquantes ou désorganisé dans cette "
+#~ "version de WordPress. Donc, nous vous suggérons de mettre à jour vers la "
+#~ "version 4.0 ou mieux."
+
+#~ msgid "En lire plus"
+#~ msgstr "Lire en plus les"

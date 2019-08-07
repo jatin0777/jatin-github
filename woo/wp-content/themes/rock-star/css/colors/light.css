@@ -1,0 +1,212 @@
+/*
+ * Light color scheme for Rock Star
+ */
+
+body {
+    background-color: #fff;
+}
+
+#news-ticker,
+.ctnewsletter .ct-newsletter-wrap,
+.tour-dates .tour-links a  {
+    background-color: #ddd;
+}
+
+body,
+button,
+input,
+select,
+textarea,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.content-area .entry-title,
+.content-area .entry-title a,
+a:hover,
+a:focus,
+a:active,
+.archive-blog-wrapper .read-more a:hover,
+.archive-blog-wrapper .read-more a:focus,
+.archive-blog-wrapper .read-more a:active,
+.view-more a:hover,
+.view-more a:focus,
+.view-more a:active,
+#nav-below .nav-links a,
+#nav-below .nav-links span.current,
+.wp-pagenavi a,
+.wp-pagenavi span,
+.site-main #infinite-handle span button,
+.news-ticker-title,
+.news-ticker-title a,
+.sub-title,
+.tour-dates ul li:first-child,
+.tour-dates ul li:nth-child(2),
+.tour-dates ul li:nth-child(3),
+.featured-content-wrap .entry-title a {
+    color: #404040;
+}
+
+a,
+.view-more a,
+.entry-meta a:hover,
+.entry-meta a:focus,
+.content-area .entry-title a:hover,
+.content-area .entry-title a:focus,
+.archive-blog-wrapper .read-more a,
+.news-ticker-title a:hover,
+.news-ticker-title a:focus,
+.featured-content-wrap .entry-title a:hover,
+.featured-content-wrap .entry-title a:focus {
+    color: #e8554e;
+}
+
+.entry-meta,
+.entry-meta a {
+    color: #666;
+}
+
+.btn-transparent,
+.ctnewsletter .ct-newsletter-wrap #subbutton,
+#nav-below .nav-links a,
+#nav-below .nav-links span.current,
+.wp-pagenavi a,
+.wp-pagenavi span,
+.site-main #infinite-handle span button {
+    border-color: #e8554e;
+    color: #e8554e;
+}
+
+.main-slider .entry-container .btn-transparent,
+.ctgallerypostpageimage .read-more a {
+    border-color: #fff;
+    color: #fff;
+}
+
+.btn-transparent:hover,
+.btn-transparent:focus,
+.ctnewsletter .ct-newsletter-wrap #subbutton:hover,
+.ctnewsletter .ct-newsletter-wrap #subbutton:focus,
+.main-slider .entry-container .btn-transparent:hover,
+.main-slider .entry-container .btn-transparent:focus,
+.ctgallerypostpageimage .read-more a:hover,
+.ctgallerypostpageimage .read-more a:focus {
+    border-color: #e8554e;
+    color: #fff;
+}
+
+.backtotop {
+    background-color: transparent;
+    border: 2px solid #e8554e;
+    color: #e8554e;
+}
+
+.backtotop:hover,
+.backtotop:focus {
+    background-color: #e8554e;
+    border-color: #e8554e;
+    color: #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: bold;
+}
+
+.ctnewsletter .ct-newsletter-wrap {
+    clear: both;
+    display: block;
+    padding: 30px;
+}
+
+.archive-blog-wrapper .read-more {
+    clear: none;
+    display: inline;
+    margin: 0;
+}
+
+.archive-blog-wrapper .read-more a {
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.news-ticker-title,
+.news-ticker-title a {
+    font-weight: normal;
+}
+
+.site-info {
+    background-color: #000;
+    color: #ddd;
+}
+
+.site-info a,
+.site-info a:active {
+    color: #fff;
+}
+
+.site-info a:hover,
+.site-info a:focus {
+    color: #ddd;
+    text-decoration: none;
+}
+
+
+/**
+ * 16.7 - bbPress
+ */
+
+#bbp-search-form #bbp_search_submit {
+    background: #111;
+    color: #fff;
+}
+
+div.bbp-template-notice.info {
+    background-color: #f3f3f3;
+    border-color: #eee;
+    color: #404040;
+}
+
+div.bbp-template-notice a {
+    color: #e8554e;
+}
+
+div.bbp-template-notice a:hover,
+div.bbp-template-notice a:focus {
+    color: #404040;
+}
+
+#bbpress-forums li.bbp-footer,
+#bbpress-forums li.bbp-header {
+    background-color: #f3f3f3;
+    border-color: #eee;
+}
+
+#bbpress-forums ul.bbp-lead-topic,
+#bbpress-forums ul.bbp-topics,
+#bbpress-forums ul.bbp-forums,
+#bbpress-forums ul.bbp-replies,
+#bbpress-forums ul.bbp-search-results {
+    border-color: #eee;
+}
+
+#bbpress-forums li.bbp-body ul.forum,
+#bbpress-forums li.bbp-body ul.topic {
+    border-color: #eee;
+}
+
+#bbpress-forums div.even,
+#bbpress-forums ul.even {
+    background-color: #fff;
+}
+
+#bbpress-forums div.odd,
+#bbpress-forums ul.odd {
+    background-color: #fbfbfb;
+}
